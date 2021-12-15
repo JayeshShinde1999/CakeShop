@@ -1,0 +1,215 @@
+.container_12{
+ background-color: #dcebe4;
+}
+h1{
+    color:black;
+    font-size: 50px;
+    color: crimson;
+    font-weight: bold;
+    text-shadow:  2px 2px 0.5px blue;
+    /* text-align: center; */
+    margin-left: 35px;
+}
+.bt9{
+    margin-left: 90px;
+    font-size: 30px;
+}
+.menu-item{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(151, 243, 243);
+    padding: 10px 0;
+    cursor: pointer;
+    border-radius: 30px;
+}
+.menu-item:hover{
+   background-color: rgb(255, 0, 200);
+   color: white;
+}
+#banner{
+     margin-top: 10px;
+     opacity: 0.6;
+     
+}
+.welcome{
+    color: red;
+    position: absolute;
+    top: 50%;
+    width: 85%;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 60px;
+}
+.like{
+    color: black;
+    position: absolute;
+    top: 50%;
+    width: 85%;
+    text-align: center;
+    margin-top: 150px; 
+    font-size: 40px;
+}
+.img{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+}
+/*
+.container_12{
+    border: 2px solid black;
+} */
+#media>h3{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.para{
+    font-size: 15px;
+}
+.grid_6 p{
+    text-align: center;
+}
+#locetus{
+    background-color: black;
+    color: white;
+    
+
+}
+a{
+    text-decoration: none;
+}
+#info{
+    text-align: center;
+    font-size: 30px;
+    /* text-decoration: underline; */
+    text-transform: uppercase;
+}
+#media{
+    background-color: #cde1f8;
+} 
+.happy{
+    text-align: center;
+}
+.alt{
+    padding-left: 50px;
+    border-radius: 100px ;
+}
+/* about css */
+.simple{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(219, 145, 145);
+}
+.feature{
+    text-align: center ;
+}
+.svg{
+    padding-left: 100px;
+}
+.pet{
+    text-align: center;
+}
+.border{
+    border-radius: 100px;
+}
+.dolor{
+    padding-left : 30px;
+}
+.lorem{
+    padding-left: 300px;
+}
+.clients{
+    border-radius: 50px;
+}
+/*service css*/
+.bt1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.alt1{
+border-radius: 80px;
+}
+.alt2{
+    border-radius: 80px;
+}
+#for{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+p{
+    font-weight: bold;
+}
+#product{
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+#products{
+    text-align: center;
+    font-size: 25px;
+}
+.bt7{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+.bt4{
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.join{
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bold;
+}
+.sweet{
+    text-align: center;
+}
+.bt8{
+    margin-left:30%;
+    line-height: 30px;
+    margin-bottom: 8px;
+    width: 300px;  
+}
+#subscribe{
+    line-height: 30px;
+    background-color: yellow;
+}
+/*contact css*/
+iframe{
+    margin-top: 10px;
+}
+.contact{
+    font-size: 25px;
+    color: rgb(165, 103, 81);
+}
+textarea{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+input{
+    margin-top: 30px;
+    margin-left: 60px;
+    line-height: 40px;
+}
+.class{
+    margin-left: 260px;
+     margin-top: 15px; 
+     line-height: 30px; 
+     margin-bottom: 15px; 
+     color: black;
+}
+marquee{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: cursive;
+    color: crimson;
+}

@@ -1,0 +1,1519 @@
+<!DOCTYPE html>
+<!-- saved from url=(0051)https://preview.milingona.co/themes/bakery/onepage/ -->
+<html lang="en-US" class=" js_active  vc_desktop  vc_transform  vc_transform "><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style>.dismissButton{background-color:#fff;border:1px solid #dadce0;color:#1a73e8;border-radius:4px;font-family:Roboto,sans-serif;font-size:14px;height:36px;cursor:pointer;padding:0 24px}.dismissButton:hover{background-color:rgba(66,133,244,0.04);border:1px solid #d2e3fc}.dismissButton:focus{background-color:rgba(66,133,244,0.12);border:1px solid #d2e3fc;outline:0}.dismissButton:focus:not(:focus-visible){background-color:#fff;border:1px solid #dadce0;outline:none}.dismissButton:focus-visible{background-color:rgba(66,133,244,0.12);border:1px solid #d2e3fc;outline:0}.dismissButton:hover:focus{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd}.dismissButton:hover:focus:not(:focus-visible){background-color:rgba(66,133,244,0.04);border:1px solid #d2e3fc}.dismissButton:hover:focus-visible{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd}.dismissButton:active{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd;box-shadow:0 1px 2px 0 rgba(60,64,67,0.3),0 1px 3px 1px rgba(60,64,67,0.15)}.dismissButton:disabled{background-color:#fff;border:1px solid #f1f3f4;color:#3c4043}
+</style><style>.gm-control-active>img{box-sizing:content-box;display:none;left:50%;pointer-events:none;position:absolute;top:50%;transform:translate(-50%,-50%)}.gm-control-active>img:nth-child(1){display:block}.gm-control-active:hover>img:nth-child(1),.gm-control-active:active>img:nth-child(1){display:none}.gm-control-active:hover>img:nth-child(2),.gm-control-active:active>img:nth-child(3){display:block}
+</style><link type="text/css" rel="stylesheet" href="./logo1_files/css"><link type="text/css" rel="stylesheet" href="./logo1_files/css(1)"><style>.gm-ui-hover-effect{opacity:.6}.gm-ui-hover-effect:hover{opacity:1}
+</style><style>.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span,.gm-style .gm-style-mtc div{font-size:10px;box-sizing:border-box}
+</style><style>@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style>.gm-style-moc{background-color:rgba(0,0,0,0.45);pointer-events:none;text-align:center;transition:opacity ease-in-out}.gm-style-mot{color:white;font-family:Roboto,Arial,sans-serif;font-size:22px;margin:0;position:relative;top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%)}
+</style><style>.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}</style><script type="text/javascript" id="www-widgetapi-script" src="./logo1_files/www-widgetapi.js.download" async=""></script><script src="./logo1_files/iframe_api"></script>
+	
+
+	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+	<link rel="pingback" href="https://preview.milingona.co/themes/bakery/onepage/xmlrpc.php">
+
+	<title>Bakery | WordPress Bakery, Cakery &amp; Food Theme</title>
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="Bakery » Feed" href="https://preview.milingona.co/themes/bakery/onepage/feed/">
+<link rel="alternate" type="application/rss+xml" title="Bakery » Comments Feed" href="https://preview.milingona.co/themes/bakery/onepage/comments/feed/">
+		<script type="text/javascript" async="" src="./logo1_files/analytics.js.download"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/preview.milingona.co\/themes\/bakery\/onepage\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./logo1_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="./logo1_files/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="./logo1_files/settings.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="bakery-fonts-css" href="./logo1_files/css(2)" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="./logo1_files/mediaelementplayer-legacy.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="./logo1_files/wp-mediaelement.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-milingona-css" href="./logo1_files/font-milingona.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="./logo1_files/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-bakery-css" href="./logo1_files/font-bakery.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="./logo1_files/bootstrap.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-datepicker-css" href="./logo1_files/bootstrap-datepicker.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-timepicker-css" href="./logo1_files/bootstrap-timepicker.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="./logo1_files/magnific-popup.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="owl-carousel-css" href="./logo1_files/owl.carousel.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="select2-css" href="./logo1_files/select2.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bakery-common-css-css" href="./logo1_files/common.css" type="text/css" media="all">
+<link rel="stylesheet" id="bakery-main-css" href="./logo1_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="./logo1_files/js_composer.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="redux-google-fonts-bakery_theme_options-css" href="./logo1_files/css(3)" type="text/css" media="all">
+<script type="text/javascript" src="./logo1_files/jquery.js.download"></script>
+<script type="text/javascript" src="./logo1_files/jquery-migrate.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/jquery.themepunch.tools.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/jquery.themepunch.revolution.min.js.download"></script>
+<link rel="https://api.w.org/" href="https://preview.milingona.co/themes/bakery/onepage/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://preview.milingona.co/themes/bakery/onepage/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://preview.milingona.co/themes/bakery/onepage/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.3">
+<link rel="canonical" href="https://preview.milingona.co/themes/bakery/onepage/">
+<link rel="shortlink" href="https://preview.milingona.co/themes/bakery/onepage/">
+<link rel="alternate" type="application/json+oembed" href="https://preview.milingona.co/themes/bakery/onepage/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreview.milingona.co%2Fthemes%2Fbakery%2Fonepage%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://preview.milingona.co/themes/bakery/onepage/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreview.milingona.co%2Fthemes%2Fbakery%2Fonepage%2F&amp;format=xml">
+<meta name="generator" content="Powered by Milingona"><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://preview.milingona.co/themes/bakery/onepage/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.6.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+<style type="text/css" title="dynamic-css" class="options-output">body{background-color:#fff;}body{font-family:Rubik;text-transform:none;line-height:24px;font-weight:300;font-style:normal;color:#888888;font-size:15px;}.vu_main-menu > ul > li > a{font-family:Prata;text-transform:none;line-height:25px;font-weight:400;font-style:normal;color:#414141;font-size:17px;}.vu_main-menu ul li ul.sub-menu li a{font-family:Prata;text-transform:none;line-height:20px;font-weight:400;font-style:normal;color:#414141;font-size:14px;}h1,.h1{font-family:Prata;text-transform:none;line-height:38px;font-weight:400;font-style:normal;color:#414141;font-size:28px;}h2,.h2{font-family:Prata;text-transform:none;line-height:34px;font-weight:400;font-style:normal;color:#414141;font-size:24px;}h3,.h3{font-family:Prata;text-transform:none;line-height:30px;font-weight:400;font-style:normal;color:#414141;font-size:20px;}h4,.h4{font-family:Prata;text-transform:none;line-height:27px;font-weight:400;font-style:normal;color:#414141;font-size:17px;}h5{font-family:Prata;text-transform:none;line-height:26px;font-weight:400;font-style:normal;color:#414141;font-size:16px;}h6{font-family:Prata;text-transform:none;line-height:24px;font-weight:400;font-style:normal;color:#414141;font-size:14px;}.vu_tabs .vu_t-nav li a,.vu_tour .vu_t-wrapper .vu_t-nav a,.vu_product.vu_p-style-2 .vu_p-label,.vu_product.vu_p-style-3 .vu_p-label,.vu_product.vu_p-style-4 .vu_p-label,.vu_product.vu_p-style-5 .vu_p-label,.vu_special-offer .vu_so-item-price,.vu_special-offer .vu_so-item-label,.vu_pricing-table .vu_pt-title,.btn,.vu_counter .vu_c-holder,.vu_error-page .vu_ep-404,.woocommerce input.button,.woocommerce button.button,.woocommerce a.button,.woocommerce div.product p.price,.woocommerce div.product span.price,.woocommerce table.shop_table th,.woocommerce-cart .cart-collaterals .cart_totals table th,.woocommerce table.order_details thead th,.woocommerce table.woocommerce-checkout-review-order-table thead th,.vu_wc-product .vu_p-label,.vu_wc-product-label{font-family:Prata;}.vu_main-menu-container{padding-top:20px;padding-bottom:20px;}.vu_menu-affix.affix .vu_main-menu-container{padding-top:15px;padding-bottom:15px;}.vu_main-footer{background-color:#1a1a1a;}.vu_main-footer{color:#ffffff;}.vu_main-footer .vu_mf-subfooter{background-color:#414141;}.vu_main-footer .vu_mf-subfooter{color:#ffffff;}</style><style type="text/css" id="bakery_custom-css">::-moz-selection{background-color:#d6a360}::selection{background-color:#d6a360}a{color:#d6a360}a:hover{color:#414141}a.vu_link-inverse{color:#414141}a.vu_link-inverse:hover{color:#d6a360}h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6{color:#414141}.vu_main-header.vu_mh-transparent .vu_menu-affix:not(.affix) .vu_main-menu>ul>li:not(.current-menu-item):not(.current-menu-parent):not(.current-menu-ancestor)>a:hover{color:#d6a360}.vu_top-bar a:hover{color:#d6a360}.vu_tb-list .sub-menu li a:hover{color:#d6a360}.vu_main-menu>ul>li{border-left:1px solid rgba(65,65,65,0.2)}.vu_main-menu>ul>li.vu_mm-button>a{color:#d6a360!important;border:2px solid #d6a360!important}.vu_main-menu>ul>li a:hover{color:#d6a360}.vu_main-menu li.active>a,.vu_main-menu li.current-menu-parent>a,.vu_main-menu li.current-menu-ancestor>a,.vu_main-menu li.current-menu-item>a{color:#d6a360}.vu_main-menu ul li ul.sub-menu li a:hover,.vu_main-menu ul li ul.sub-menu li.active>a{color:#d6a360}.vu_main-menu ul.sub-menu li:hover>a,.vu_main-menu ul.sub-menu li.active>a,.vu_main-menu ul.sub-menu li.current-menu-parent>a,.vu_main-menu ul.sub-menu li.current-menu-ancestor>a,.vu_main-menu ul.sub-menu li.current-menu-item>a{color:#d6a360}.vu_main-menu .vu_mm-label-new>a:after,.vu_main-menu .vu_mm-label-unique>a:after{background-color:#414141}.vu_main-menu .vu_mm-label-unique>a:after{background-color:#d6a360}.vu_mobile-menu ul li.current-menu-item>a{color:#d6a360}.vu_mobile-menu ul li a:hover,.vu_mobile-menu ul li.current-menu-item>a:hover,.vu_mobile-menu .vu_mm-remove:hover{border-color:#d6a360;background-color:#d6a360}.vu_mm-open:hover,.vu_mm-open:focus,.vu_wc-menu-item.vu_wc-responsive:hover,.vu_wc-menu-item.vu_wc-responsive:focus{color:#414141}.vu_page-header.vu_ph-with-border:before{-webkit-box-shadow:inset 0 0 0 2px #414141,inset 0 0 0 8px #fff,inset 0 0 0 10px #414141;box-shadow:inset 0 0 0 2px #414141,inset 0 0 0 8px #fff,inset 0 0 0 10px #414141}.vu_page-header.vu_ph-style-1 .vu_ph-breadcrumbs .divider i{color:#d6a360!important}.vu_page-header.vu_ph-style-1 .vu_ph-breadcrumbs a:hover,.vu_page-header.vu_ph-style-1 .vu_ph-breadcrumbs a:hover span{color:#d6a360}.vu_page-header.vu_ph-style-2 .vu_ph-title:after{background-color:#d6a360}.widget_nav_menu .menu>li>a{color:#414141}.widget_nav_menu ul li a:hover,.widget_nav_menu ul li.current-menu-parent>a,.widget_nav_menu ul li.current-menu-ancestor>a,.widget_nav_menu ul li.current-menu-item>a{border-color:#d6a360;background-color:#d6a360}.vu_datepicker-wrap .ui-datepicker-calendar .ui-state-highlight{color:#d6a360}.vu_datepicker-wrap td a.ui-state-active,.vu_datepicker-wrap td a.ui-state-active.ui-state-hover{background-color:#d6a360}.select2-container--default.select2-container--open .select2-selection--single,.select2-container--default.select2-container--open .select2-selection--multiple{border-color:#414141}.select2-container--default .select2-selection--single .select2-selection__clear{color:#414141}.select2-container--default .select2-search--dropdown .select2-search__field:focus{border-color:#d6a360}.select2-dropdown{border:1px solid #414141}.select2-container--default .select2-results__option[aria-selected=true]{background-color:#d6a360}.vu_accordion .vu_a-wrapper .vu_a-header{background-color:#414141!important}.vu_accordion .vu_a-wrapper .vu_a-header.ui-state-active{background-color:#d6a360!important}.vu_toggle .vu_t-title .fa{border:2px solid #d6a360;background-color:#d6a360}.vu_toggle .vu_t-title h4{color:#414141}.vu_toggle .vu_t-title:hover .fa,.vu_toggle.vc_toggle_active .vu_t-title .fa{background-color:#d6a360}.vu_tabs .vu_t-nav li a{color:#414141!important}.vu_tabs .vu_t-nav li.ui-tabs-active a{color:#d6a360!important}.vu_tour .vu_t-wrapper .vu_t-nav a{color:#414141!important}.vu_tour .vu_t-nav li.ui-tabs-active a{color:#d6a360!important}.vu_progress-bar .vu_pb-bar{background-color:#d6a360}.vu_countdown .countdown-period{color:#d6a360}.vu_widget-nav li.active>a,.vu_widget-nav a:hover{color:#d6a360}.vu_image-box .vu_ib-title{color:#d6a360}.vu_image-box .vu_ib-read-more{color:#414141}.vu_team-member .vu_tm-social-networks a{color:#414141}.vu_team-member .vu_tm-social-networks a:hover{background-color:#d6a360}.vu_team-member.vu_tm-style-1 .vu_tm-container{border:2px solid #414141}.vu_team-member.vu_tm-style-1:hover .vu_tm-container{border-color:#d6a360}.vu_team-member.vu_tm-style-1 .vu_tm-name{color:#414141}.vu_team-member.vu_tm-style-1 .vu_tm-position{color:#d6a360}.vu_team-member.vu_tm-style-1 .vu_tm-social-networks{background-color:rgba(65,65,65,0.6)}.vu_team-member.vu_tm-style-2:after{background-color:rgba(65,65,65,0.8)}.vu_team-member.vu_tm-style-2 .vu_tm-position{color:#d6a360}.vu_team-member.vu_tm-style-3 .vu_tm-name{color:#414141}.vu_team-member.vu_tm-style-3 .vu_tm-position{color:#d6a360}.vu_team-member.vu_tm-style-3 .vu_tm-social-networks{background-color:rgba(65,65,65,0.6)}.vu_testimonial.vu_t-style-1 .vu_t-author-name:before{background-color:#414141}.vu_testimonial.vu_t-style-1 .vu_t-author-position{color:#414141}.vu_carousel.vu_c-testimonials .owl-pagination .owl-page.active span{border-color:#414141}.vu_carousel.vu_c-testimonials .owl-pagination .owl-page.active span:before{background-color:#414141}.vu_testimonial.vu_t-style-2 .vu_t-author .vu_t-author-name{color:#414141}.vu_testimonial.vu_t-style-2 .vu_t-author .vu_t-author-position{color:#d6a360}.vu_before-after .twentytwenty-handle{background-color:#d6a360}.vu_product.vu_p-style-1 .vu_p-image .vu_p-i-cover{-webkit-box-shadow:0 0 0 5px #fff,0 0 0 7px #d6a360;box-shadow:0 0 0 5px #fff,0 0 0 7px #d6a360;background-color:rgba(214,163,96,0.6)}.vu_product.vu_p-style-1 .vu_p-price{color:#d6a360}.vu_product.vu_p-style-2,.vu_product.vu_p-style-4{border:2px solid #414141}.vu_product.vu_p-style-2 .vu_p-content,.vu_product.vu_p-style-3 .vu_p-content{background-color:rgba(214,163,96,0.9)}.vu_product.vu_p-style-2 .vu_p-icon,.vu_product.vu_p-style-3 .vu_p-icon,.vu_product.vu_p-style-4 .vu_p-icon,.vu_product.vu_p-style-5 .vu_p-icon{color:#d6a360;border:2px solid #d6a360}.vu_product.vu_p-style-4 .vu_p-icon,.vu_product.vu_p-style-5 .vu_p-icon{background-color:#d6a360}.vu_product.vu_p-style-2 .vu_p-icon:hover,.vu_product.vu_p-style-3 .vu_p-icon:hover,.vu_product.vu_p-style-4 .vu_p-icon:hover,.vu_product.vu_p-style-5 .vu_p-icon:hover{border-color:#414141;background-color:#414141}.vu_product.vu_p-style-4 .vu_p-name,.vu_product.vu_p-style-5 .vu_p-name{color:#414141}.vu_product.vu_p-style-4 .vu_p-price,.vu_product.vu_p-style-5 .vu_p-price{color:#d6a360}.form-control:focus{border-color:#414141}.vu_contact-form-7.vu_cf7-style-inverse .vu_cf7-frm .form-control:focus{border-color:#414141}.wpcf7-form:not(.vu_cf7-frm) .wpcf7-form-control:not(.wpcf7-submit):focus{border-color:#414141}.vu_order-form .vu_of-products .vu_of-product-item .vu_of-pi-price-holder{color:#d6a360}.vu_order-form .vu_of-products-select2.select2-container--default.select2-container--open .select2-selection--single,.vu_order-form .vu_of-products-select2.select2-container--default.select2-container--focus .select2-selection--multiple{border-color:#414141}.vu_of-products-select2-outer-container .select2-dropdown{border:1px solid #414141}.vu_of-products-select2-outer-container .select2-results__option .vu_s2-product-item .vu_s2-pi-name{color:#414141}.vu_of-products-select2-outer-container .select2-results__option .vu_s2-product-item .vu_s2-pi-price{color:#d6a360}.vu_filterable .vu_f-filters.vu_f-filters-style-1 .vu_f-filter .vu_f-filter-icon{-webkit-box-shadow:inset 0 0 0 3px #414141;box-shadow:inset 0 0 0 3px #414141;background-color:#414141}.vu_filterable .vu_f-filters.vu_f-filters-style-1 .vu_f-filter:hover .vu_f-filter-icon,.vu_filterable .vu_f-filters.vu_f-filters-style-1 .vu_f-filter.active .vu_f-filter-icon{border-color:#d6a360;background-color:#d6a360}.vu_filterable .vu_f-filters.vu_f-filters-style-2 .vu_f-filter:hover .vu_f-filter-name,.vu_filterable .vu_f-filters.vu_f-filters-style-2 .vu_f-filter.active .vu_f-filter-name{color:#d6a360}.vu_mailchimp-form.vu_mcf-style-inverse .form-control:focus{border-color:#414141}.vu_special-offer .vu_so-tab:before{border-right-color:#d6a360}.vu_special-offer .vu_so-tab.active{border-color:#d6a360}.vu_special-offer .vu_so-panes{border:2px solid #d6a360}.vu_icon-box .vu_ib-icon{background-color:#414141;border:2px solid #414141}.vu_icon-box.vu_ib-style-none .vu_ib-icon{color:#414141}.vu_icon-box .vu_ib-content .vu_ib-title{color:#d6a360}.vu_icon-box .vu_ib-content .vu_ib-title a:hover{color:#414141}.vu_icon-box.vu_ib-color-primary .vu_ib-content .vu_ib-title{color:#414141}.vu_icon-box.vu_ib-color-primary .vu_ib-icon{background-color:#d6a360;border-color:#d6a360}.vu_icon-box.vu_ib-color-primary:hover .vu_ib-icon{background-color:#414141;border-color:#414141}.vu_icon-box.vu_ib-color-primary[class*="-outline"] .vu_ib-icon{color:#d6a360}.vu_icon-box.vu_ib-color-primary[class*="-outline"]:hover .vu_ib-icon{color:#414141}.vu_icon-box.vu_ib-color-secondary .vu_ib-content .vu_ib-title{color:#d6a360}.vu_icon-box.vu_ib-color-secondary .vu_ib-icon{background-color:#414141;border-color:#414141}.vu_icon-box.vu_ib-color-secondary:hover .vu_ib-icon{background-color:#d6a360;border-color:#d6a360}.vu_icon-box.vu_ib-color-secondary[class*="-outline"] .vu_ib-icon{color:#414141}.vu_icon-box.vu_ib-color-secondary[class*="-outline"]:hover .vu_ib-icon{color:#d6a360}.vu_icon-box.vu_ib-color-gray .vu_ib-icon{color:#d6a360}.vu_icon-box.vu_ib-color-gray:hover .vu_ib-icon{background-color:#d6a360;border-color:#d6a360}.vu_icon-box.vu_ib-color-white .vu_ib-content .vu_ib-title{color:#d6a360}.vu_timeline .vu_t-date{background-color:#414141}.vu_timeline .vu_t-date:before{-webkit-box-shadow:0 0 0 1px #fff,0 0 0 3px #d6a360,0 0 0 8px #f9f9f9;box-shadow:0 0 0 1px #fff,0 0 0 3px #d6a360,0 0 0 8px #f9f9f9;background-color:#d6a360}.vu_timeline .vu_t-title{color:#d6a360}.vu_video-section .vu_vs-play{background-color:#d6a360}.vu_separator.vu_s-style-1 .vu_s-bullet{background-color:#414141}.vu_separator.vu_s-style-1 .vu_s-bullet[data-number="2"]{background-color:#d6a360}.vu_separator.vu_s-style-2 .vu_s-line:before{background-color:#d6a360}.vu_separator.vu_s-style-3 .vu_s-line:before{background-color:#414141}.vu_separator.vu_s-style-4 .vu_s-line:before,.vu_separator.vu_s-style-4 .vu_s-line:after{background-color:#d6a360}.vu_separator.vu_s-style-5 .vu_s-line-left,.vu_separator.vu_s-style-5 .vu_s-line-center,.vu_separator.vu_s-style-5 .vu_s-line-right{background-color:#414141}.vu_separator.vu_s-style-5 .vu_s-line-center{background-color:#d6a360}.vu_carousel .owl-pagination .owl-page span{border:2px solid #414141}.vu_carousel .owl-pagination .owl-page span:before{background-color:#414141}.vu_carousel .owl-pagination .owl-page.active span{border-color:#d6a360}.vu_carousel .owl-pagination .owl-page.active span:before{background-color:#d6a360}.vu_carousel .owl-pagination .owl-page .owl-numbers{color:#414141}.vu_carousel .owl-pagination .owl-page.active .owl-numbers{color:#d6a360}.vu_carousel .owl-buttons .owl-prev,.vu_carousel .owl-buttons .owl-next{color:#414141;border:2px solid #414141}.vu_carousel .owl-buttons .owl-prev:hover,.vu_carousel .owl-buttons .owl-next:hover{color:#d6a360;border-color:#d6a360}.vu_heading .vu_h-heading{color:#414141}.vu_heading .vu_h-heading:after{background-color:#d6a360}.vu_heading.vu_h-style-2 .vu_h-heading span{background-color:#d6a360}.vu_pricing-table{border:2px solid #d6a360}.vu_pricing-table.vu_pt-active{border-color:#414141}.vu_pricing-table .vu_pt-title{background-color:#d6a360}.vu_pricing-table.vu_pt-active .vu_pt-title{background-color:#414141}.vu_pricing-table .vu_pt-button a{background-color:#414141}.vu_pricing-table.vu_pt-active .vu_pt-button a{background-color:#d6a360}.btn.btn-primary,.btn.btn-primary.btn-default{color:#d6a360;border-color:#d6a360}.btn.btn-primary:hover,.btn.btn-primary.btn-default:hover,.btn.btn-primary.btn-inverse{border-color:#d6a360;background-color:#d6a360}.btn.btn-primary.btn-inverse:hover{color:#d6a360;border-color:#d6a360}.btn.btn-primary-hover:hover,.btn.btn-primary-hover.btn-default:hover{border-color:#d6a360!important;background-color:#d6a360!important}.btn.btn-primary-hover.btn-inverse:hover{color:#d6a360!important;border-color:#d6a360!important}.btn.btn-secondary,.btn.btn-secondary.btn-default{color:#414141;border-color:#414141}.btn.btn-secondary:hover,.btn.btn-secondary.btn-default:hover,.btn.btn-secondary.btn-inverse{border-color:#414141;background-color:#414141}.btn.btn-secondary.btn-inverse:hover{color:#414141;border-color:#414141}.btn.btn-secondary-hover:hover,.btn.btn-secondary-hover.btn-default:hover{border-color:#414141!important;background-color:#414141!important}.btn.btn-secondary-hover.btn-inverse:hover{color:#414141!important;border-color:#414141!important}.btn.btn-disable:hover{color:#d6a360}.vu_gallery .vu_g-filters.vu_g-filters-style-1 .vu_g-filter.active,.vu_gallery .vu_g-filters.vu_g-filters-style-1 .vu_g-filter:hover{color:#d6a360}.vu_gallery .vu_g-filters.vu_g-filters-style-2 .vu_g-filter{background-color:#414141}.vu_gallery .vu_g-filters.vu_g-filters-style-2 .vu_g-filter.active,.vu_gallery .vu_g-filters.vu_g-filters-style-2 .vu_g-filter:hover{background-color:#d6a360}.vu_gallery-item .vu_gi-details-container{background-color:rgba(214,163,96,0.8)}.vu_gallery-widget .vu_gw-item .vu_gw-image{background-color:#d6a360}.vu_animated-svg .vu_as-svg svg path[stroke]{stroke:#414141}.vu_animated-svg .vu_as-content .vu_as-title{color:#d6a360}.vu_animated-svg .vu_as-content .vu_as-title a:hover{color:#414141}.vu_counter{color:#414141}.vu_counter .vu_c-holder:after{background-color:#d6a360}.vu_image-slider .owl-buttons .owl-prev,.vu_image-slider .owl-buttons .owl-next{color:#414141;border:2px solid #414141}.vu_image-slider .owl-buttons .owl-prev:hover,.vu_image-slider .owl-buttons .owl-next:hover{color:#d6a360;border-color:#d6a360}.vu_image-slider .owl-controls .owl-pagination .owl-page span{border:2px solid #414141}.vu_image-slider .owl-controls .owl-pagination .owl-page span:before{background-color:#d6a360}.vu_image-slider .owl-controls .owl-pagination .owl-page.active span,.vu_image-slider .owl-controls .owl-pagination .owl-page:hover span{border-color:#d6a360}.vu_blog .vu_blog-item .vu_bi-image{border:2px solid #414141}.vu_blog .vu_blog-item:hover .vu_bi-image{border-color:#d6a360}.vu_blog .vu_blog-item .vu_bi-title a:hover{color:#d6a360}.vu_blog .vu_blog-item .vu_bi-meta:before{background-color:#d6a360}.vu_blog .vu_blog-item .vu_bi-meta .vu_bi-m-item .fa{color:#414141}.vu_blog .vu_blog-item .vu_bi-meta .vu_bi-m-item a:hover{color:#d6a360}.vu_blog-post{border:2px solid #414141}.vu_blog-post .vu_bp-title{color:#414141}.vu_blog-post .vu_bp-title a:hover{color:#d6a360}.vu_blog-post .vu_bp-m-item a:hover{color:#414141}.vu_blog-post .vu_bp-m-item i{color:#d6a360}.vu_blog-post .vu_bp-read-more{color:#d6a360}.vu_blog-post.vu_bp-type-audio .vu_bp-image .mejs-controls .mejs-time-rail .mejs-time-current{background-color:#d6a360}.vu_blog-post.vu_bp-type-link:before{color:#414141}.vu_blog-post.vu_bp-type-quote .vu_bp-quote:before{color:#414141}.vu_blog-post.vu_bp-type-quote .vu_bp-quote>blockquote,.vu_blog-post.vu_bp-type-quote .vu_bp-quote .vu_bp-q-content{color:#d6a360}.vu_blog-post.vu_bp-type-quote .vu_bp-quote>blockquote cite,.vu_blog-post.vu_bp-type-quote .vu_bp-quote .vu_bp-q-author{color:#414141}.sticky,.category-sticky{border-color:#d6a360}.vu_bp-social-tags-container .vu_bp-tags{color:#414141}.vu_bp-social-tags-container .vu_bp-tags a:hover{color:#d6a360}.vu_bp-social-networks a{background-color:#414141}.vu_bp-social-networks a:hover{background-color:#d6a360}.vu_blog-single-post .vu_bsp-content{border:2px solid #414141}.vu_comments .vu_c-count,.vu_comments .vu_c-text{color:#d6a360}.vu_comments .vu_c-a-author{color:#414141}.vu_comments .vu_c-a-m-item a:hover{color:#d6a360}.vu_comments .vu_c-a-edit a,.vu_comments .vu_c-a-reply a{background-color:#d6a360}.vu_comments .vu_c-a-edit a{background-color:#414141}.vu_comments .vu_c-a-content .vu_c-a-moderation{color:#d6a360}.comment-reply-title{color:#414141}.comment-reply-title small a{color:#d6a360}.comment-reply-title small a:hover{color:#414141}.comment-form .form-control:focus{border-color:#414141}.vu_pagination .vu_p-list a:hover{border-color:#414141;background-color:#414141}.vu_pagination .vu_p-list .current{color:#414141;border-color:#414141}.vu_recent-posts .vu_rp-item .vu_rp-title a:hover{color:#d6a360}.vu_working-hours .vu_wh-item.active .vu_wh-day,.vu_working-hours .vu_wh-item.active .vu_wh-hours{color:#d6a360}.vu_social-networks .vu_social-icon a{background-color:#d6a360}.vu_social-networks .vu_social-icon a:hover{background-color:#414141}.vu_error-page .vu_ep-404{color:#d6a360}.vu_error-page .vu_ep-title{color:#414141}.widget_title{color:#414141}.widget .vu_social-icon a{background-color:#d6a360}.widget .vu_social-icon a:hover{background-color:#414141}.vu_search-form .vu_sf-wrapper .vu_sf-input{border:2px solid #414141}.vu_search-form .vu_sf-wrapper .vu_sf-submit{color:#414141}.widget .form-control:focus,.widget input[type="text"]:focus,.widget input[type="search"]:focus{border-color:#d6a360}.vu_latest-tweets ul li:before{color:#d6a360}.vu_main-footer .vu_latest-tweets a:hover{color:#d6a360}.vu_sidebar .widget.widget_recent_comments li a{color:#414141}.vu_sidebar .widget.widget_recent_comments li a.url{color:#d6a360}.widget.widget_archive li a:hover,.widget.widget_pages li a:hover,.widget.widget_recent_comments li a:hover,.widget.widget_recent_entries li a:hover,.widget.widget_meta li a:hover,.widget.widget_categories li a:hover{color:#d6a360}.widget.widget_tag_cloud a{background-color:#414141}.widget.widget_tag_cloud a.active,.widget.widget_tag_cloud a:hover{background-color:#d6a360}.widget.widget_rss .rss-date{color:#414141}.vu_highlight{background-color:#d6a360}.vu_list-with-icon li a:hover{color:#d6a360}.vu_list-with-icon li:before{color:#d6a360}.vu_list-with-icon[data-color="primary"] li a:hover,.vu_list-with-icon[data-color="primary"] li:before{color:#d6a360}.vu_list-with-icon[data-color="secondary"] li a:hover,.vu_list-with-icon[data-color="secondary"] li:before{color:#414141}.vu_main-footer .vu_mf-bottom a:hover{color:#d6a360}.vu_primary-text-color{color:#d6a360}.vu_primary-border-color{border-color:#d6a360}.vu_primary-bg-color{background-color:#d6a360}.vu_secondary-text-color{color:#414141}.vu_secondary-border-color{border-color:#414141}.vu_secondary-bg-color{background-color:#414141}.vu_with-icon>i.fa{color:#d6a360}.vu_arrow-down:after{border-top-color:#d6a360}.vu_arrow-down.vu_secondary-bg-color:after{border-top-color:#414141}.vu_main-header:not(.vu_mh-type-3) .vu_main-menu-container .vu_logo-container,.vu_main-header.vu_mh-type-3 .vu_main-menu-container .vu_logo-container .vu_site-logo{width:90px}.vu_main-menu-container .vu_logo-container img{max-width:90px}.vu_main-header:not(.vu_mh-type-3) .vu_menu-affix.affix .vu_main-menu-container .vu_logo-container,.vu_main-header.vu_mh-type-3 .vu_menu-affix.affix .vu_main-menu-container .vu_logo-container .vu_site-logo{width:70px}.vu_menu-affix.affix .vu_main-menu-container .vu_logo-container img{max-width:70px}.vu_main-menu ul li ul.sub-menu{width:220px}@media (max-width:1000px){.vu_main-menu{display:none!important}.vu_mm-open,.vu_search-icon.vu_si-responsive,.vu_wc-menu-item.vu_wc-responsive{display:block!important}.vu_main-menu-container .vu_logo-container{padding-right:68px!important}.vu_site-with-search-icon .vu_main-menu-container .vu_logo-container{padding-right:130px!important}.vu_wc-with-basket-icon .vu_main-menu-container .vu_logo-container{padding-left:68px!important}.vu_site-with-search-icon.vu_wc-with-basket-icon .vu_main-menu-container .vu_logo-container{padding-left:130px!important}}.vu_page-header.vu_ph-with-bg:before{background-color:rgba(0,0,0,0.6)}.vu_page-header.vu_ph-style-default,.vu_page-header.vu_ph-style-custom .vu_ph-container{height:300px}#vu_preloader{background-image:url(http://preview.milingona.co/themes/bakery/onepage/wp-content/themes/bakery/assets/img/preloader.svg)}.vu_main-menu>ul>li{border-left:none!important}.vu_main-menu .vu_menu-button>a{font-size:15px;border-radius:40px;padding:9px 25px 5px;margin-left:10px;color:#fff!important;background-color:#d09e5b!important}.vu_main-menu .vu_menu-button>a:hover{opacity:0.8;color:#fff!important;background-color:#d09e5b!important}.vu_page-header .vu_ph-title{text-transform:none!important}.vu_heading .vu_h-heading{text-transform:none}.vu_heading.vu_h-style-3 .vu_h-heading{font-size:27px;line-height:34px}.vu_heading.vu_h-style-3 .vu_h-subheading p{padding-top:7px}.vu_order-form .vu_of-products-select2.select2-container--default .select2-search__field{font-size:14px}.btn,.btn.btn-md{padding:14px 25px 10px;text-transform:none}.vu_icon-box .vu_ib-content .vu_ib-title{text-transform:none}.vu_icon-box.vu_ib-size-small .vu_ib-content .vu_ib-title{font-size:16px;line-height:24px}.vu_testimonial.vu_t-style-2 .vu_t-author .vu_t-author-name{text-transform:none}.vu_working-hours{color:#aaa}.vu_working-hours .vu_wh-item .vu_wh-day,.vu_working-hours .vu_wh-item .vu_wh-hours{font-size:15px}.vu_main-footer .vu_mf-subfooter{padding-top:5px;padding-bottom:5px}.vu_main-footer .vu_mf-subfooter a:hover{color:#aaa}.vu_back-to-top{bottom:8px}</style><style type="text/css" data-type="vc_custom-css">/* One Page Menu*/
+.vu_main-header .vu_menu-affix:not(.affix) .vu_main-menu li.active > a,
+.vu_main-header .vu_menu-affix:not(.affix) .vu_main-menu li.current-menu-parent > a,
+.vu_main-header .vu_menu-affix:not(.affix) .vu_main-menu li.current-menu-ancestor > a,
+.vu_main-header .vu_menu-affix:not(.affix) .vu_main-menu li.current-menu-item > a {
+    color: #fff;
+}
+.vu_main-header .vu_menu-affix.affix .vu_main-menu li.active > a,
+.vu_main-header .vu_menu-affix.affix .vu_main-menu li.current-menu-parent > a,
+.vu_main-header .vu_menu-affix.affix .vu_main-menu li.current-menu-ancestor > a,
+.vu_main-header .vu_menu-affix.affix .vu_main-menu li.current-menu-item > a {
+    color: #414141;
+}
+
+/* Icon Box */
+.vu_icon-box .vu_ib-content .vu_ib-description p {
+    color: #343434 !important;
+}
+
+/* CF7 & Column Responsive */
+@media (max-width: 991px) {
+    .vu_contact-form-7[class*="vc_custom_"] {
+        margin-top: 0 !important;
+    }
+    .vu_column.vc_custom_1512833274586 {
+        padding-left: 15px !important;
+    }
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1512838511486{padding-top: 70px !important;padding-bottom: 50px !important;}.vc_custom_1513093246584{padding-top: 70px !important;padding-bottom: 50px !important;background-image: url(http://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-7.jpg?id=1824) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1512838526483{margin-bottom: 50px !important;background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1513037355807{background-image: url(http://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-2.jpg?id=1819) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1513039936573{padding-top: 70px !important;padding-bottom: 40px !important;background-image: url(http://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/paper_bg.png?id=2002) !important;background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1513093930259{background-color: #303133 !important;}.vc_custom_1513076968228{margin-top: 25px !important;margin-bottom: 25px !important;}.vc_custom_1513204800104{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;padding-top: 60px !important;padding-right: 30px !important;padding-bottom: 35px !important;padding-left: 30px !important;border-left-color: #414141 !important;border-left-style: solid !important;border-right-color: #414141 !important;border-right-style: solid !important;border-top-color: #414141 !important;border-top-style: solid !important;border-bottom-color: #414141 !important;border-bottom-style: solid !important;}.vc_custom_1513204810108{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;padding-top: 60px !important;padding-right: 30px !important;padding-bottom: 35px !important;padding-left: 30px !important;border-left-color: #694f41 !important;border-left-style: solid !important;border-right-color: #694f41 !important;border-right-style: solid !important;border-top-color: #694f41 !important;border-top-style: solid !important;border-bottom-color: #694f41 !important;border-bottom-style: solid !important;}.vc_custom_1513204832481{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;padding-top: 60px !important;padding-right: 30px !important;padding-bottom: 35px !important;padding-left: 30px !important;border-left-color: #414141 !important;border-left-style: solid !important;border-right-color: #414141 !important;border-right-style: solid !important;border-top-color: #414141 !important;border-top-style: solid !important;border-bottom-color: #414141 !important;border-bottom-style: solid !important;}.vc_custom_1513204945633{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;padding-top: 60px !important;padding-right: 30px !important;padding-bottom: 35px !important;padding-left: 30px !important;border-left-color: #414141 !important;border-left-style: solid !important;border-right-color: #414141 !important;border-right-style: solid !important;border-top-color: #414141 !important;border-top-style: solid !important;border-bottom-color: #414141 !important;border-bottom-style: solid !important;}.vc_custom_1513204850079{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;padding-top: 60px !important;padding-right: 30px !important;padding-bottom: 35px !important;padding-left: 30px !important;border-left-color: #414141 !important;border-left-style: solid !important;border-right-color: #414141 !important;border-right-style: solid !important;border-top-color: #414141 !important;border-top-style: solid !important;border-bottom-color: #414141 !important;border-bottom-style: solid !important;}.vc_custom_1513204839434{border-top-width: 2px !important;border-right-width: 2px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;padding-top: 60px !important;padding-right: 30px !important;padding-bottom: 35px !important;padding-left: 30px !important;border-left-color: #414141 !important;border-left-style: solid !important;border-right-color: #414141 !important;border-right-style: solid !important;border-top-color: #414141 !important;border-top-style: solid !important;border-bottom-color: #414141 !important;border-bottom-style: solid !important;}.vc_custom_1509441521471{margin-bottom: 70px !important;}.vc_custom_1513077680517{margin-top: 0px !important;margin-bottom: 25px !important;}.vc_custom_1513044283490{margin-bottom: 30px !important;}.vc_custom_1512833233777{margin-top: 50px !important;}.vc_custom_1512833274586{margin-top: 50px !important;padding-left: 50px !important;}.vc_custom_1513205085488{margin-bottom: 20px !important;padding-right: 75px !important;}.vc_custom_1513205324686{margin-top: -226px !important;margin-bottom: 40px !important;padding-top: 35px !important;padding-right: 35px !important;padding-bottom: 35px !important;padding-left: 35px !important;background-color: #ffffff !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script type="text/javascript" src="./logo1_files/js"></script><script src="./logo1_files/player_api"></script><style id="vu_custom_css_for_vu_gallery"></style><script type="text/javascript" charset="UTF-8" src="./logo1_files/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./logo1_files/util.js.download"></script><script type="text/javascript" charset="UTF-8" src="./logo1_files/map.js.download"></script><script type="text/javascript" charset="UTF-8" src="./logo1_files/marker.js.download"></script><script type="text/javascript" charset="UTF-8" src="./logo1_files/infowindow.js.download"></script><script type="text/javascript" charset="UTF-8" src="./logo1_files/stats.js.download"></script><script type="text/javascript" charset="UTF-8" src="./logo1_files/onion.js.download"></script><style type="text/css">@-webkit-keyframes _gm1145 {
+0% { -webkit-transform: translate3d(0px,0px,0); -webkit-animation-timing-function: ease-out; }
+50% { -webkit-transform: translate3d(0px,-20px,0); -webkit-animation-timing-function: ease-in; }
+100% { -webkit-transform: translate3d(0px,0px,0); -webkit-animation-timing-function: ease-out; }
+}
+</style><script type="text/javascript" charset="UTF-8" src="./logo1_files/controls.js.download"></script></head>
+<body class="home page-template-default page page-id-87 vu_site-skin-light vu_site-layout-full wpb-js-composer js-comp-ver-5.4.5 vc_responsive" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+	<div id="vu_preloader" style="display: none;"></div>	
+	<!-- Main Container -->
+	<div class="vu_main-container">
+		<!-- Header -->
+						<header id="vu_main-header" class="vu_main-header vu_mh-layout-boxed vu_mh-type-2 vu_mh-transparent" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			
+			<div class="container">
+				<div id="vu_menu-affix" class="vu_menu-affix affix" data-spy="affix" data-offset-top="150">
+					<div class="vu_main-menu-container">
+						<div class="vu_d-tr">
+							
+							<div class="vu_logo-container vu_d-td"> 
+								<div class="vu_site-logo">
+									<a href="https://preview.milingona.co/themes/bakery/onepage/">
+										<img class="vu_sl-dark" alt="site-logo-dark" width="1000" height="1000" src="./logo1_files/bakery-onepage-logo-dark.png">
+										<img class="vu_sl-light" alt="site-logo-light" width="1000" height="1000" src="./logo1_files/bakery-onepage-logo-light.png">
+									</a>
+								</div>
+								
+								<a href="https://preview.milingona.co/themes/bakery/onepage/#" class="vu_mm-toggle vu_mm-open"><i class="fa fa-bars" aria-hidden="true"></i></a>
+
+								
+															</div>
+
+															<nav class="vu_main-menu vu_mm-top-full vu_d-td text-right" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+									<ul id="vu_mm-top-full" class="vu_mm-list vu_mm-top-full list-unstyled"><li id="menu-item-2020" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2020"><a href="http://preview.milingona.co/themes/bakery/onepage/#about" itemprop="url">Our Bakery</a></li>
+<li id="menu-item-2025" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2025"><a href="http://preview.milingona.co/themes/bakery/onepage/#order" itemprop="url">Order</a></li>
+<li id="menu-item-2021" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2021"><a href="http://preview.milingona.co/themes/bakery/onepage/#services" itemprop="url">Services</a></li>
+<li id="menu-item-2022" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2022"><a href="http://preview.milingona.co/themes/bakery/onepage/#products" itemprop="url">Products</a></li>
+<li id="menu-item-2023" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2023"><a href="http://preview.milingona.co/themes/bakery/onepage/#blog" itemprop="url">Blog</a></li>
+<li id="menu-item-2024" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2024"><a href="http://preview.milingona.co/themes/bakery/onepage/#contact" itemprop="url">Contact</a></li>
+<li id="menu-item-2027" class="vu_menu-button menu-item menu-item-type-custom menu-item-object-custom menu-item-2027"><a target="_blank" href="http://go.milingona.co/buy-bakery-theme" itemprop="url">Buy Now!</a></li>
+</ul>								</nav>
+													</div>
+					</div>
+				</div>
+
+				<div class="vu_menu-affix-height" style="height: 130px;"></div>
+			</div>
+		</header><!-- /Header -->
+
+		
+				
+		<!-- Container -->
+		<div class="vu_container vu_c-type-fullwidth vu_no-sidebar clearfix">
+			<div class="container">
+				<div class="row">
+					<div class="vu_content col-xs-12 col-sm-12 col-md-12">
+						<div class="vu_section vu_s-layout-full">
+				<div class="vu_s-wrapper vu_s-custom-170548">
+			<div class="vu_s-content clearfix">
+				
+	<div class="vu_row row vu_r-layout-full">
+				<div class="vu_r-wrapper vu_r-custom-672441">
+			<div class="vu_r-content clearfix">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-310893">
+		<div class="vu_c-wrapper">
+			<link href="./logo1_files/css(4)" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div class="forcefullwidth_wrapper_tp_banner" id="rev_slider_1_1_forcefullwidth" style="position:relative;width:100%;height:auto;margin-top:0px;margin-bottom:0px"><div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-source="gallery" style="background: transparent; padding: 0px; height: 466px; margin-top: 0px; margin-bottom: 0px; position: absolute; max-height: none; overflow: visible; width: 1088px; left: 0px;">
+<!-- START REVOLUTION SLIDER 5.4.6.4 fullscreen mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullscreenbanner revslider-initialised tp-simpleresponsive rev_redraw_on_blurfocus" style="max-height: none; margin-top: 0px; margin-bottom: 0px; height: 100%;" data-version="5.4.6.4" data-slideactive="rs-1">
+<ul class="tp-revslider-mainul" style="visibility: visible; display: block; overflow: hidden; width: 100%; height: 100%; max-height: none;">	<!-- SLIDE  -->
+	<li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/slider-video-cover-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" class="tp-revslider-slidesli active-revslide" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1; background-color: rgba(255, 255, 255, 0);">
+		<!-- MAIN IMAGE -->
+		<div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/slider-video-cover.jpg" alt="" title="slider-video-cover" width="1920" height="1080" data-bgposition="center center" data-bgfit="cover" class="rev-slidebg defaultimg" data-no-retina="">--><div class="rs-background-video-layer defaultvid coverscreenvideo HasListener rs-apiready" data-forcerewind="on" data-volume="mute" data-ytid="rdAWcI4e-88" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;;origin=https://preview.milingona.co;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videostartat="00:02" data-videoendat="00:26" data-videoloop="loopandnoslidestop" data-forcecover="1" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" style="z-index: 30; left: 0px; top: 0px; transform: matrix(1, 0, 0, 1, 0, 0); visibility: inherit; opacity: 1;"><iframe type="text/html" src="./logo1_files/rdAWcI4e-88.html" width="100%" height="100%" style="opacity: 1; visibility: inherit; width: 100%; height: 131.33%; position: absolute; left: 0px; top: -15.6652%; display: block;" id="iframe16134" class="resizelistener"></iframe><div class="rs-fullvideo-cover" style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"></div></div><div class="tp-bgimg defaultimg " data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/slider-video-cover.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/slider-video-cover.jpg"></div></div>
+		<!-- LAYERS -->
+
+		<!-- BACKGROUND VIDEO LAYER -->
+		
+		<!-- LAYER NR. 1 -->
+		<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: -853px; top: -1165px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-1-layer-5" data-x="center" data-hoffset="" data-y="center" data-voffset="" data-width="[&#39;3000&#39;]" data-height="[&#39;3000&#39;]" data-type="shape" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:300,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-textalign="[&#39;inherit&#39;,&#39;inherit&#39;,&#39;inherit&#39;,&#39;inherit&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; background-color: rgba(0, 0, 0, 0.6); visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 22px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 14px; white-space: nowrap; min-height: 2796px; min-width: 2796px; max-height: 2796px; max-width: 2796px; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;"> </div></div></div></div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 389px; top: 130px; z-index: 6;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" id="slide-1-layer-1" data-x="center" data-hoffset="" data-y="140" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:500,&quot;speed&quot;:800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-textalign="[&#39;inherit&#39;,&#39;inherit&#39;,&#39;inherit&#39;,&#39;inherit&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 56px; line-height: 56px; font-weight: 400; color: rgb(255, 255, 255); letter-spacing: 0px; font-family: Prata; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; border-width: 0px; margin: 0px; padding: 0px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">Daily Fresh </div></div></div></div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 364px; top: 205px; z-index: 7;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" id="slide-1-layer-3" data-x="center" data-hoffset="" data-y="221" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:500,&quot;speed&quot;:800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-textalign="[&#39;inherit&#39;,&#39;inherit&#39;,&#39;inherit&#39;,&#39;inherit&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 56px; line-height: 56px; font-weight: 400; color: rgb(255, 255, 255); letter-spacing: 0px; font-family: Prata; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; border-width: 0px; margin: 0px; padding: 0px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">Baked Goods </div></div></div></div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 468px; top: 324px; z-index: 8;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><a class="tp-caption rev-btn  tp-resizeme rs-hover-ready" href="https://preview.milingona.co/themes/bakery/onepage/#order" target="_self" id="slide-1-layer-7" data-x="center" data-hoffset="" data-y="348" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="button" data-actions="" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:1500,&quot;speed&quot;:400,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;frame&quot;:&quot;hover&quot;,&quot;speed&quot;:&quot;0&quot;,&quot;ease&quot;:&quot;Linear.easeNone&quot;,&quot;to&quot;:&quot;o:1;rX:0;rY:0;rZ:0;z:0;&quot;,&quot;style&quot;:&quot;c:rgb(214,163,96);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;&quot;}]" data-textalign="[&#39;inherit&#39;,&#39;inherit&#39;,&#39;inherit&#39;,&#39;inherit&#39;]" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style="z-index: 8; white-space: nowrap; font-size: 15px; line-height: 16px; font-weight: 400; color: rgb(255, 255, 255); font-family: Rubik; background-color: rgba(214, 163, 96, 0.8); border-color: rgb(0, 0, 0); border-radius: 30px; outline: none; box-shadow: rgb(153, 153, 153) 0px 0px 0px 0px; box-sizing: border-box; cursor: pointer; text-decoration: none; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; margin: 0px; padding: 11px 33px; letter-spacing: 0px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px; border-width: 0px;">ORDER NOW </a></div></div></div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important; width: 0%;"></div>	<div class="tp-loader spinner5" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div></div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+setREVStartSize({c: jQuery('#rev_slider_1_1'), gridwidth: [1140], gridheight: [500], sliderLayout: 'fullscreen', fullScreenAutoWidth:'off', fullScreenAlignForce:'off', fullScreenOffsetContainer:'', fullScreenOffset:''});
+			
+var revapi1,
+	tpj=jQuery;
+			
+tpj(document).ready(function() {
+	if(tpj("#rev_slider_1_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_1_1");
+	}else{
+		revapi1 = tpj("#rev_slider_1_1").show().revolution({
+			sliderType:"hero",
+			jsFileLocation:"//preview.milingona.co/themes/bakery/onepage/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"fullscreen",
+			dottedOverlay:"none",
+			delay:9000,
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:1140,
+			gridheight:500,
+			lazyType:"none",
+			shadow:0,
+			spinner:"spinner5",
+			autoHeight:"off",
+			fullScreenAutoWidth:"off",
+			fullScreenAlignForce:"off",
+			fullScreenOffsetContainer: "",
+			fullScreenOffset: "",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				disableFocusListener:false,
+			}
+		});
+	}
+	
+});	/*ready*/
+</script>
+		</div><div class="tp-fullwidth-forcer" style="width: 100%; height: 466px;"></div></div><!-- END REVOLUTION SLIDER -->		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div id="about" class="vu_section vu_s-layout-full">
+				<div class="vu_s-wrapper vu_s-custom-680764 vc_custom_1512838511486">
+			<div class="vu_s-content clearfix">
+				
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-693168">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-326683 col-md-6">
+		<div class="vu_c-wrapper">
+			
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="890" height="667" src="./logo1_files/img-6.jpg" class="vc_single_image-img attachment-full" alt="" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-6.jpg 890w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-6-300x225.jpg 300w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-6-768x576.jpg 768w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-6-800x600.jpg 800w" sizes="(max-width: 890px) 100vw, 890px"></div>
+		</figure>
+	</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-642317 col-md-6">
+		<div class="vu_c-wrapper">
+					<header class="vu_heading vu_h-style-3 vu_h-alignment-left vc_custom_1513076968228">
+			
+			<h2 class="vu_h-heading"><span>Bakery story</span></h2>
+
+							<div class="vu_h-subheading">
+					<p>Baking with love, makes it delicious.</p>
+				</div>
+					</header>
+	
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<p><span style="color: #414141;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Blandit aliquam etiam erat velit scelerisque in dictum non. Faucibus turpis in eu mi bibendum neque egestas congue. Donec pretium vulputate sapien nec sagittis aliquam malesuada nisl bibendum arcu.</span></p>
+<p><span style="color: #414141;">Leo urna molestie at elementum eu facilisis sed odio. Malesuada fames ac turpis egestas integer. Porttitor massa id neque aliquam vestibulum morbi blandit nisl cursus risus. Leo duis ut diam quam nulla porttitor. Aliquet lectus proin nibh nisl condimentum id venenatis a. Neque viverra justo nec ultrices dui sapien eget. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Id aliquet lectus proin nibh nisl condimentum id venenatis. </span></p>
+
+		</div>
+	</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div id="order" class="vu_section vu_s-layout-full">
+		<style scoped="">.vu_section .vu_s-custom-515095.vu_s-wrapper.vu_s-color-overlay:before{background-color:rgba(0,0,0,0.8)}</style>		<div class="vu_s-wrapper vu_s-bg-image vu_s-color-overlay vu_s-custom-515095 vc_custom_1513093246584">
+			<div class="vu_s-content clearfix">
+				
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-435787">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-482936 col-md-6">
+		<div class="vu_c-wrapper">
+					<header class="vu_heading vu_h-style-3 vu_h-alignment-left m-t-0 m-b-15 vu_custom_1174958">
+							<style scoped="">
+											.vu_heading.vu_custom_1174958 .vu_h-heading { color: #ffffff}
+					
+											.vu_heading.vu_custom_1174958 .vu_h-subheading p { color: #d09e5b}
+					
+					
+									</style>
+			
+			<h2 class="vu_h-heading"><span>Order Now</span></h2>
+
+							<div class="vu_h-subheading">
+					<p>Get your products today</p>
+				</div>
+					</header>
+	
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<p><span style="color: #ffffff;">In our shop we stock a range of the bread, cakes and confectionery to order, along with cake boards and boxes to buy.</span></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<ul class="vu_list-with-icon" data-font="FontAwesome" data-icon="" data-color="primary">
+<li data-icon=""><span style="color: #ffffff;">Premium services and beyond your expectation</span></li>
+<li data-icon=""><span style="color: #ffffff;">We strive to keep a good selection of our products in store</span></li>
+<li data-icon=""><span style="color: #ffffff;">Our talented bakers also make customized celebration cakes</span></li>
+<li data-icon=""><span style="color: #ffffff;">We have a takeaway menu offering breakfast delights</span></li>
+</ul>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<p><span style="color: #ffffff;">The shop is open <strong>Monday to Friday from 8am-7pm</strong>.</span></p>
+
+		</div>
+	</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-232281 col-md-6">
+		<div class="vu_c-wrapper">
+					<div class="vu_order-form clearfix" data-products="[{&quot;name&quot;:&quot;Sourdough&quot;,&quot;currency&quot;:&quot;$&quot;,&quot;price&quot;:&quot;3.99&quot;,&quot;image_id&quot;:&quot;1459&quot;,&quot;image_url&quot;:false,&quot;desc&quot;:&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot;},{&quot;name&quot;:&quot;Amaretti Cookie&quot;,&quot;currency&quot;:&quot;$&quot;,&quot;price&quot;:&quot;12.25&quot;,&quot;image_id&quot;:&quot;1496&quot;,&quot;image_url&quot;:false,&quot;desc&quot;:&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot;},{&quot;name&quot;:&quot;Chocolate Tarts&quot;,&quot;currency&quot;:&quot;$&quot;,&quot;price&quot;:&quot;17.50&quot;,&quot;image_id&quot;:&quot;1490&quot;,&quot;image_url&quot;:false,&quot;desc&quot;:&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot;}]" data-placeholder="Choose products...">
+
+			<div role="form" class="wpcf7" id="wpcf7-f1100-p87-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="https://preview.milingona.co/themes/bakery/onepage/#wpcf7-f1100-p87-o1" method="post" class="wpcf7-form vu_cf7-frm" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1100">
+<input type="hidden" name="_wpcf7_version" value="4.9.2">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1100-p87-o1">
+<input type="hidden" name="_wpcf7_container_post" value="87">
+</div>
+<div class="row">
+<div class="col-xs-6 m-b-15">
+		<span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control m-b-5" aria-required="true" aria-invalid="false" placeholder="Name *"></span>
+	</div>
+<div class="col-xs-6 m-b-15">
+		<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control m-b-5" aria-required="true" aria-invalid="false" placeholder="Email *"></span>
+	</div>
+</div>
+<div class="row">
+<div class="col-xs-6 m-b-15">
+		<span class="wpcf7-form-control-wrap your-phone"><input type="tel" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel form-control m-b-5" aria-required="true" aria-invalid="false" placeholder="Phone *"></span>
+	</div>
+<div class="col-xs-6 m-b-15">
+		<span class="wpcf7-form-control-wrap your-address"><input type="text" name="your-address" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control m-b-5" aria-required="true" aria-invalid="false" placeholder="Address *"></span>
+	</div>
+</div>
+<div class="row">
+<div class="col-xs-12 m-b-15">
+		<span class="wpcf7-form-control-wrap products"><select name="products[]" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required vu_of_products select2-hidden-accessible" aria-required="true" aria-invalid="false" multiple="" tabindex="-1" aria-hidden="true" style=""><option value="">---</option><option value="E3qOvDxbCo" data-product="{&quot;name&quot;:&quot;Sourdough&quot;,&quot;currency&quot;:&quot;$&quot;,&quot;price&quot;:&quot;3.99&quot;,&quot;image_id&quot;:&quot;1459&quot;,&quot;image_url&quot;:&quot;&quot;,&quot;desc&quot;:&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot;,&quot;id&quot;:&quot;E3qOvDxbCo&quot;}">Sourdough</option><option value="yW9xWSY7Ua" data-product="{&quot;name&quot;:&quot;Amaretti Cookie&quot;,&quot;currency&quot;:&quot;$&quot;,&quot;price&quot;:&quot;12.25&quot;,&quot;image_id&quot;:&quot;1496&quot;,&quot;image_url&quot;:&quot;&quot;,&quot;desc&quot;:&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot;,&quot;id&quot;:&quot;yW9xWSY7Ua&quot;}">Amaretti Cookie</option><option value="uyFpJLyhk7" data-product="{&quot;name&quot;:&quot;Chocolate Tarts&quot;,&quot;currency&quot;:&quot;$&quot;,&quot;price&quot;:&quot;17.50&quot;,&quot;image_id&quot;:&quot;1490&quot;,&quot;image_url&quot;:&quot;&quot;,&quot;desc&quot;:&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot;,&quot;id&quot;:&quot;uyFpJLyhk7&quot;}">Chocolate Tarts</option></select><span class="select2 select2-container select2-container--default vu_of-products-select2" dir="ltr" style="width: 1.98276px;"><span class="selection"><span class="select2-selection select2-selection--multiple" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="-1"><ul class="select2-selection__rendered"><li class="select2-search select2-search--inline"><input class="select2-search__field" type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" role="textbox" aria-autocomplete="list" placeholder="Choose products..." style="width: 10px;"></li></ul></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span><div class="vu_of-products"><div class="vu_of-products-items"><div class="vu_of-product-item" data-id="E3qOvDxbCo"><div class="vu_of-pi-content"><h4 class="vu_of-pi-name">Sourdough</h4><p class="vu_of-pi-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><div class="vu_of-pi-price-holder"><span class="vu_of-pi-currency">$</span><span class="vu_of-pi-price">3.99</span></div><div class="vu_of-pi-quantity"><span class="vu_of-pi-qty-btn" data-action="minus"></span><span class="vu_of-pi-qty-input">1</span><span class="vu_of-pi-qty-btn" data-action="plus"></span></div></div></div><div class="vu_of-product-item" data-id="yW9xWSY7Ua"><div class="vu_of-pi-content"><h4 class="vu_of-pi-name">Amaretti Cookie</h4><p class="vu_of-pi-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><div class="vu_of-pi-price-holder"><span class="vu_of-pi-currency">$</span><span class="vu_of-pi-price">12.25</span></div><div class="vu_of-pi-quantity"><span class="vu_of-pi-qty-btn" data-action="minus"></span><span class="vu_of-pi-qty-input">1</span><span class="vu_of-pi-qty-btn" data-action="plus"></span></div></div></div><div class="vu_of-product-item" data-id="uyFpJLyhk7"><div class="vu_of-pi-content"><h4 class="vu_of-pi-name">Chocolate Tarts</h4><p class="vu_of-pi-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><div class="vu_of-pi-price-holder"><span class="vu_of-pi-currency">$</span><span class="vu_of-pi-price">17.50</span></div><div class="vu_of-pi-quantity"><span class="vu_of-pi-qty-btn" data-action="minus"></span><span class="vu_of-pi-qty-input">1</span><span class="vu_of-pi-qty-btn" data-action="plus"></span></div></div></div></div><input type="hidden" name="vu_of-products-json" value="[{&quot;name&quot;:&quot;Sourdough&quot;,&quot;currency&quot;:&quot;$&quot;,&quot;price&quot;:&quot;3.99&quot;,&quot;image_id&quot;:&quot;1459&quot;,&quot;image_url&quot;:&quot;&quot;,&quot;desc&quot;:&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot;,&quot;id&quot;:&quot;E3qOvDxbCo&quot;},{&quot;name&quot;:&quot;Amaretti Cookie&quot;,&quot;currency&quot;:&quot;$&quot;,&quot;price&quot;:&quot;12.25&quot;,&quot;image_id&quot;:&quot;1496&quot;,&quot;image_url&quot;:&quot;&quot;,&quot;desc&quot;:&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot;,&quot;id&quot;:&quot;yW9xWSY7Ua&quot;},{&quot;name&quot;:&quot;Chocolate Tarts&quot;,&quot;currency&quot;:&quot;$&quot;,&quot;price&quot;:&quot;17.50&quot;,&quot;image_id&quot;:&quot;1490&quot;,&quot;image_url&quot;:&quot;&quot;,&quot;desc&quot;:&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&quot;,&quot;id&quot;:&quot;uyFpJLyhk7&quot;}]"><input type="hidden" name="vu_of-products-selected"></div></span>
+	</div>
+</div>
+<div class="row">
+<div class="col-xs-12 m-b-15">
+		<span class="wpcf7-form-control-wrap message"><textarea name="message" cols="40" rows="3" class="wpcf7-form-control wpcf7-textarea form-control m-b-5" aria-invalid="false" placeholder="Futher details"></textarea></span>
+	</div>
+</div>
+<div class="row">
+<div class="col-xs-12 text-right">
+		<span class="ajax-loader"></span><input type="submit" value="Place Order" class="wpcf7-form-control wpcf7-submit btn btn-primary btn-md btn-inverse">
+	</div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>		</div>
+			</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div id="services" class="vu_section vu_s-layout-full">
+		<style scoped="">.vu_section .vu_s-custom-809954{background-image:url()}</style>		<div class="vu_s-wrapper vu_s-custom-809954 vc_custom_1512838526483">
+			<div class="vu_s-content clearfix">
+				
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-692150">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-192209">
+		<div class="vu_c-wrapper">
+					<header class="vu_heading vu_h-style-3 vu_h-alignment-center">
+			
+			<h2 class="vu_h-heading"><span>Our Services</span></h2>
+
+							<div class="vu_h-subheading">
+					<p>covered in these areas</p>
+				</div>
+					</header>
+			</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-923588">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-161827 col-md-4">
+		<div class="vu_c-wrapper">
+						<div class="vu_icon-box vu_ib-size-small vu_ib-position-top vu_ib-style-circle-outline vu_ib-color-secondary clearfix  vc_custom_1513204800104">
+				
+				<span class="vu_ib-icon"><i class="vu_fb-round-bread"></i></span>
+
+									<div class="vu_ib-content">
+						<h5 class="vu_ib-title"><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self">Bakery</a></h5>						<div class="vu_ib-description"><p>We have all your favorite traditional bread, 7 days a week! You can choose from a rich variety of cookies, pastries and cakes.</p>
+</div>
+						<div class="clear"></div><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self" class="vu_ib-read-more vu_link-inverse">Read More</a>					</div>
+							</div>
+				</div>
+	</div>
+
+	
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-925979 col-md-4">
+		<div class="vu_c-wrapper">
+						<div class="vu_icon-box vu_ib-size-small vu_ib-position-top vu_ib-style-circle-outline vu_ib-color-secondary clearfix  vc_custom_1513204810108">
+				
+				<span class="vu_ib-icon"><i class="vu_fb-cake-2"></i></span>
+
+									<div class="vu_ib-content">
+						<h5 class="vu_ib-title"><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self">Cakes</a></h5>						<div class="vu_ib-description"><p>We specialize in custom cakes for all occasions. You can choose from a variety of designs to create the perfect cake for you.</p>
+</div>
+						<div class="clear"></div><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self" class="vu_ib-read-more vu_link-inverse">Read More</a>					</div>
+							</div>
+				</div>
+	</div>
+
+	
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-947430 col-md-4">
+		<div class="vu_c-wrapper">
+						<div class="vu_icon-box vu_ib-size-small vu_ib-position-top vu_ib-style-circle-outline vu_ib-color-secondary clearfix  vc_custom_1513204832481">
+				
+				<span class="vu_ib-icon"><i class="vu_fb-beverage"></i></span>
+
+									<div class="vu_ib-content">
+						<h5 class="vu_ib-title"><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self">Fresh Juices</a></h5>						<div class="vu_ib-description"><p>Choose from a variety of fruits and veggies to make your favorite juice. You can also enjoy a simple fresh squeezed orange juice.</p>
+</div>
+						<div class="clear"></div><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self" class="vu_ib-read-more vu_link-inverse">Read More</a>					</div>
+							</div>
+				</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-784509">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-164035 col-md-4">
+		<div class="vu_c-wrapper">
+						<div class="vu_icon-box vu_ib-size-small vu_ib-position-top vu_ib-style-circle-outline vu_ib-color-secondary clearfix  vc_custom_1513204945633">
+				
+				<span class="vu_ib-icon"><i class="vu_fb-cupcake-5"></i></span>
+
+									<div class="vu_ib-content">
+						<h5 class="vu_ib-title"><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self">Catering</a></h5>						<div class="vu_ib-description"><p>We do catering all from weddings to business functions. We offer our authentic food to be simply delivered, or we can serve it for you.</p>
+</div>
+						<div class="clear"></div><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self" class="vu_ib-read-more vu_link-inverse">Read More</a>					</div>
+							</div>
+				</div>
+	</div>
+
+	
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-875682 col-md-4">
+		<div class="vu_c-wrapper">
+						<div class="vu_icon-box vu_ib-size-small vu_ib-position-top vu_ib-style-circle-outline vu_ib-color-secondary clearfix  vc_custom_1513204850079">
+				
+				<span class="vu_ib-icon"><i class="vu_fb-scooter"></i></span>
+
+									<div class="vu_ib-content">
+						<h5 class="vu_ib-title"><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self">Smile Truck</a></h5>						<div class="vu_ib-description"><p>Our new awesome team will be hitting the streets with our best picked up goodies for you and much more.</p>
+</div>
+						<div class="clear"></div><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self" class="vu_ib-read-more vu_link-inverse">Read More</a>					</div>
+							</div>
+				</div>
+	</div>
+
+	
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-303839 col-md-4">
+		<div class="vu_c-wrapper">
+						<div class="vu_icon-box vu_ib-size-small vu_ib-position-top vu_ib-style-circle-outline vu_ib-color-secondary clearfix  vc_custom_1513204839434">
+				
+				<span class="vu_ib-icon"><i class="vu_fb-wedding-cake"></i></span>
+
+									<div class="vu_ib-content">
+						<h5 class="vu_ib-title"><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self">Weddings</a></h5>						<div class="vu_ib-description"><p>From elegant wedding cakes to delicious gift baskets, we can help you create a perfect and unique wedding.</p>
+</div>
+						<div class="clear"></div><a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self" class="vu_ib-read-more vu_link-inverse">Read More</a>					</div>
+							</div>
+				</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_section vu_s-layout-full">
+		<style scoped="">.vu_section .vu_s-custom-822876.vu_s-wrapper.vu_s-color-overlay:before{background-color:rgba(208,158,91,0.8)}</style>		<div class="vu_s-wrapper vu_s-bg-image vu_s-color-overlay vu_s-custom-822876 vc_custom_1513037355807" data-parallax="scroll" data-image-src="http://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-2.jpg?id=1819"><div class="vu_parallax-container" style="transform: translate3d(0px, 0px, 0px); position: absolute; top: 0px; left: 0px; height: 100%; width: 100%; z-index: -100; overflow: hidden;"><img class="vu_parallax-slider" src="./logo1_files/img-2.jpg" style="transform: translate3d(0px, 0px, 0px); position: absolute; left: 0px; height: 815px; width: 1088px; max-width: none; opacity: 1; top: -554.396px;"></div>
+			<div class="vu_s-content clearfix">
+				
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-176607">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-815014">
+		<div class="vu_c-wrapper">
+					<header class="vu_heading vu_h-style-3 vu_h-alignment-center vu_custom_1124948">
+							<style scoped="">
+					
+											.vu_heading.vu_custom_1124948 .vu_h-subheading p { color: #333333}
+					
+					
+									</style>
+			
+			<h2 class="vu_h-heading"><span>Clients' Testimonials</span></h2>
+
+							<div class="vu_h-subheading">
+					<p>What others say about us</p>
+				</div>
+					</header>
+			</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-128802">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-465537">
+		<div class="vu_c-wrapper">
+					<div class="vu_carousel-container">
+			
+			<div class="vu_carousel clearfix vu_c-pagination-white owl-carousel owl-theme" data-options="{&quot;singleItem&quot;:false,&quot;itemsScaleUp&quot;:false,&quot;addClassActive&quot;:true,&quot;navigationText&quot;:[&quot;&lt;i class=\&quot;fa fa-arrow-left\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;&lt;i class=\&quot;fa fa-arrow-right\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;],&quot;autoHeight&quot;:true,&quot;items&quot;:1,&quot;itemsDesktop&quot;:[1199,1],&quot;itemsDesktopSmall&quot;:[980,1],&quot;itemsTablet&quot;:[768,1],&quot;itemsMobile&quot;:[479,1],&quot;slideSpeed&quot;:200,&quot;paginationSpeed&quot;:800,&quot;rewindSpeed&quot;:1000,&quot;autoPlay&quot;:false,&quot;stopOnHover&quot;:false,&quot;navigation&quot;:false,&quot;rewindNav&quot;:true,&quot;scrollPerPage&quot;:true,&quot;pagination&quot;:true,&quot;paginationNumbers&quot;:false}" style="opacity: 1; display: block;" data-items="1">
+						<div class="owl-wrapper-outer autoHeight" style="height: 268px;"><div class="owl-wrapper" style="width: 5820px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-1940px, 0px, 0px);"><div class="owl-item" style="width: 970px;"><div class="vu_carousel-item">
+					<div class="vu_testimonial vu_t-style-2 vu_t-alignment-center clearfix vu_custom_7999439" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+							<style scoped="">
+											.vu_testimonial.vu_custom_7999439 .vu_t-content p { color: #333333 !important; }
+																					.vu_testimonial.vu_custom_7999439 .vu_t-author .vu_t-author-name { color: #333333 !important; }
+																.vu_testimonial.vu_custom_7999439 .vu_t-author .vu_t-author-position { color: #414141 !important; }
+									</style>
+			
+			<div class="vu_t-container">
+														<div class="vu_t-author-image">
+						<img width="150" height="150" src="./logo1_files/testimonial-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-1-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-1-300x300.jpg 300w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-1-180x180.jpg 180w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-1.jpg 600w" sizes="(max-width: 150px) 100vw, 150px">					</div>
+												
+				<div class="vu_t-content">
+					<div class="vu_t-description clearfix" itemprop="text">
+						<p>We just wanted to thank you for the beautiful cake you created for our wedding. It was simply delicious and meticulously decorated. You made the process easy, and put us at ease. You are a true professional and a talented baker and we are forever thankful for helping our dream wedding come true.</p>
+					</div>
+
+					<div class="vu_t-author" itemscope="itemscope" itemtype="https://schema.org/Person">
+						<h4 class="vu_t-author-name" itemprop="name">William Hence</h4>
+
+													<span class="vu_t-author-position" itemprop="jobTitle">Business Owner</span>
+											</div>
+				</div>
+			</div>
+		</div>
+			</div></div><div class="owl-item" style="width: 970px;"><div class="vu_carousel-item">
+					<div class="vu_testimonial vu_t-style-2 vu_t-alignment-center clearfix vu_custom_8793364" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+							<style scoped="">
+											.vu_testimonial.vu_custom_8793364 .vu_t-content p { color: #333333 !important; }
+																					.vu_testimonial.vu_custom_8793364 .vu_t-author .vu_t-author-name { color: #333333 !important; }
+																.vu_testimonial.vu_custom_8793364 .vu_t-author .vu_t-author-position { color: #333333 !important; }
+									</style>
+			
+			<div class="vu_t-container">
+														<div class="vu_t-author-image">
+						<img width="150" height="150" src="./logo1_files/testimonial-2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-2-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-2-300x300.jpg 300w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-2-180x180.jpg 180w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-2.jpg 600w" sizes="(max-width: 150px) 100vw, 150px">					</div>
+												
+				<div class="vu_t-content">
+					<div class="vu_t-description clearfix" itemprop="text">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit pellentesque habitant morbi tristique senectus et netus et. Mauris vitae ultricies leo integer malesuada nunc vel risus. Eu mi bibendum neque egestas congue quisque egestas.</p>
+					</div>
+
+					<div class="vu_t-author" itemscope="itemscope" itemtype="https://schema.org/Person">
+						<h4 class="vu_t-author-name" itemprop="name">Richard Brooke</h4>
+
+													<span class="vu_t-author-position" itemprop="jobTitle">Marketing Manager</span>
+											</div>
+				</div>
+			</div>
+		</div>
+			</div></div><div class="owl-item active last" style="width: 970px;"><div class="vu_carousel-item">
+					<div class="vu_testimonial vu_t-style-2 vu_t-alignment-center clearfix vu_custom_5360866" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+							<style scoped="">
+											.vu_testimonial.vu_custom_5360866 .vu_t-content p { color: #333333 !important; }
+																					.vu_testimonial.vu_custom_5360866 .vu_t-author .vu_t-author-name { color: #333333 !important; }
+																.vu_testimonial.vu_custom_5360866 .vu_t-author .vu_t-author-position { color: #333333 !important; }
+									</style>
+			
+			<div class="vu_t-container">
+														<div class="vu_t-author-image">
+						<img width="150" height="150" src="./logo1_files/testimonial-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-3-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-3-300x300.jpg 300w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-3-180x180.jpg 180w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/testimonial-3.jpg 600w" sizes="(max-width: 150px) 100vw, 150px">					</div>
+												
+				<div class="vu_t-content">
+					<div class="vu_t-description clearfix" itemprop="text">
+						<p>Many thanks to everybody at Bakery for the gorgeous 35th birthday cake which was enjoyed by all on Sunday. You have won a new legion of fans. Much love to you all.</p>
+					</div>
+
+					<div class="vu_t-author" itemscope="itemscope" itemtype="https://schema.org/Person">
+						<h4 class="vu_t-author-name" itemprop="name">Jeff Hammer</h4>
+
+											</div>
+				</div>
+			</div>
+		</div>
+			</div></div></div></div>
+			
+			
+				<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page active"><span class=""></span></div></div></div></div>
+		</div>
+			</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div id="products" class="vu_section vu_s-layout-full">
+				<div class="vu_s-wrapper vu_s-custom-472385">
+			<div class="vu_s-content clearfix">
+				
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-190230">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-216850">
+		<div class="vu_c-wrapper">
+					<header class="vu_heading vu_h-style-3 vu_h-alignment-center">
+			
+			<h2 class="vu_h-heading"><span>Our latest bakery products</span></h2>
+
+							<div class="vu_h-subheading">
+					<p>Check some of our best products and feel the great passion for food</p>
+				</div>
+					</header>
+			</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-165554">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-416913">
+		<div class="vu_c-wrapper">
+					<div class="vu_filterable vu_f-layout-4 vu_f-style-with-space">
+			<div class="vu_f-filters vu_f-filters-style-2">
+				<span class="vu_f-filter active" data-filter="*"><span class="vu_f-filter-icon"><i class="fa-facebook"></i></span><span class="vu_f-filter-name">All</span></span><span class="vu_f-filter" data-filter=".dba7b12a19fe9d49fbb53d65c49bbce6"><span class="vu_f-filter-icon"><i class="fa-facebook"></i></span><span class="vu_f-filter-name">Bread</span></span><span class="vu_f-filter" data-filter=".848e462678fe13b9c3ae5c15d902ad15"><span class="vu_f-filter-icon"><i class="fa-facebook"></i></span><span class="vu_f-filter-name">Cakes</span></span><span class="vu_f-filter" data-filter=".8f85b501fe583004c86fdf42e8934228"><span class="vu_f-filter-icon"><i class="fa-facebook"></i></span><span class="vu_f-filter-name">Pastries</span></span><span class="vu_f-filter" data-filter=".729a651644bb50ceee5e50abc45d86ca"><span class="vu_f-filter-icon"><i class="fa-facebook"></i></span><span class="vu_f-filter-name">Cupcakes</span></span>			</div>
+
+			<div class="vu_f-items" style="position: relative; height: 614.698px;">
+						<div class="vu_f-item dba7b12a19fe9d49fbb53d65c49bbce6" style="position: absolute; left: 0px; top: 0px;">
+					<article class="vu_product vu_p-style-2 clearfix" itemscope="" itemtype="http://schema.org/Product">
+												
+											<div class="vu_p-image vu_p-img-portrait vu_lazy-load vu_img-loaded" data-img="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-6.jpg" style="background-image: url(&quot;https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-6.jpg&quot;);">
+															<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/"><img width="600" height="600" src="./logo1_files/product-6.jpg" class="attachment-bakery_ratio-1:1 size-bakery_ratio-1:1" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-6.jpg 600w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-6-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-6-300x300.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></a>
+													</div>
+												
+			<div class="vu_p-content vu_p-content-hover">
+									<div class="vu_p-icons">
+													<a href="./logo1_files/product-6.jpg" title="Sourdough" class="vu_p-icon vu_lightbox"><i class="fa fa-search"></i></a>
+						
+													<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Sourdough" target="_self" class="vu_p-icon"><i class="fa fa-shopping-bag"></i></a>
+											</div>
+				
+									<h3 class="vu_p-name" itemprop="name"><a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Sourdough" target="_self">Sourdough</a></h3>
+				
+									<div class="vu_p-description" itemprop="description">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				
+									<div class="vu_p-price" itemscope="" itemprop="offers" itemtype="http://schema.org/Offer">
+													<span itemprop="priceCurrency" content="USD">$</span>
+						
+													<span itemprop="price" content="3.99">3.99</span>
+											</div>
+							</div>
+		</article>
+			</div>
+			<div class="vu_f-item 8f85b501fe583004c86fdf42e8934228" style="position: absolute; left: 242px; top: 0px;">
+					<article class="vu_product vu_p-style-2 clearfix" itemscope="" itemtype="http://schema.org/Product">
+																		<div class="vu_p-label">
+							<span>Sale</span>
+						</div>
+					
+											<div class="vu_p-image vu_p-img-portrait vu_lazy-load vu_img-loaded" data-img="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-3.jpg" style="background-image: url(&quot;https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-3.jpg&quot;);">
+															<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/"><img width="600" height="600" src="./logo1_files/product-3.jpg" class="attachment-bakery_ratio-1:1 size-bakery_ratio-1:1" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-3.jpg 600w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-3-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-3-300x300.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></a>
+													</div>
+												
+			<div class="vu_p-content vu_p-content-hover">
+									<div class="vu_p-icons">
+													<a href="./logo1_files/product-3.jpg" title="Maple Oat Muffin" class="vu_p-icon vu_lightbox"><i class="fa fa-search"></i></a>
+						
+													<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Maple Oat Muffin" target="_self" class="vu_p-icon"><i class="fa fa-shopping-bag"></i></a>
+											</div>
+				
+									<h3 class="vu_p-name" itemprop="name"><a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Maple Oat Muffin" target="_self">Maple Oat Muffin</a></h3>
+				
+									<div class="vu_p-description" itemprop="description">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				
+									<div class="vu_p-price" itemscope="" itemprop="offers" itemtype="http://schema.org/Offer">
+													<span itemprop="priceCurrency" content="USD">$</span>
+						
+													<span itemprop="price" content="6.95">6.95</span>
+											</div>
+							</div>
+		</article>
+			</div>
+			<div class="vu_f-item 8f85b501fe583004c86fdf42e8934228" style="position: absolute; left: 485px; top: 0px;">
+					<article class="vu_product vu_p-style-2 clearfix" itemscope="" itemtype="http://schema.org/Product">
+																		<div class="vu_p-label">
+							<span>Hot</span>
+						</div>
+					
+											<div class="vu_p-image vu_p-img-portrait vu_lazy-load vu_img-loaded" data-img="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-5.jpg" style="background-image: url(&quot;https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-5.jpg&quot;);">
+															<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/"><img width="600" height="600" src="./logo1_files/product-5.jpg" class="attachment-bakery_ratio-1:1 size-bakery_ratio-1:1" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-5.jpg 600w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-5-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-5-300x300.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></a>
+													</div>
+												
+			<div class="vu_p-content vu_p-content-hover">
+									<div class="vu_p-icons">
+													<a href="./logo1_files/product-5.jpg" title="Croissant" class="vu_p-icon vu_lightbox"><i class="fa fa-search"></i></a>
+						
+													<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Croissant" target="_self" class="vu_p-icon"><i class="fa fa-shopping-bag"></i></a>
+											</div>
+				
+									<h3 class="vu_p-name" itemprop="name"><a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Croissant" target="_self">Croissant</a></h3>
+				
+									<div class="vu_p-description" itemprop="description">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				
+									<div class="vu_p-price" itemscope="" itemprop="offers" itemtype="http://schema.org/Offer">
+													<span itemprop="priceCurrency" content="USD">$</span>
+						
+													<span itemprop="price" content="3.50">3.50</span>
+											</div>
+							</div>
+		</article>
+			</div>
+			<div class="vu_f-item 729a651644bb50ceee5e50abc45d86ca" style="position: absolute; left: 727px; top: 0px;">
+					<article class="vu_product vu_p-style-2 clearfix" itemscope="" itemtype="http://schema.org/Product">
+												
+											<div class="vu_p-image vu_p-img-portrait vu_lazy-load vu_img-loaded" data-img="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-1.jpg" style="background-image: url(&quot;https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-1.jpg&quot;);">
+															<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/"><img width="600" height="600" src="./logo1_files/product-1.jpg" class="attachment-bakery_ratio-1:1 size-bakery_ratio-1:1" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-1.jpg 600w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-1-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-1-300x300.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></a>
+													</div>
+												
+			<div class="vu_p-content vu_p-content-hover">
+									<div class="vu_p-icons">
+													<a href="./logo1_files/product-1.jpg" title="Amaretti Cookie" class="vu_p-icon vu_lightbox"><i class="fa fa-search"></i></a>
+						
+													<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Amaretti Cookie" target="_self" class="vu_p-icon"><i class="fa fa-shopping-bag"></i></a>
+											</div>
+				
+									<h3 class="vu_p-name" itemprop="name"><a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Amaretti Cookie" target="_self">Amaretti Cookie</a></h3>
+				
+									<div class="vu_p-description" itemprop="description">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				
+									<div class="vu_p-price" itemscope="" itemprop="offers" itemtype="http://schema.org/Offer">
+													<span itemprop="priceCurrency" content="USD">$</span>
+						
+													<span itemprop="price" content="12.25">12.25</span>
+											</div>
+							</div>
+		</article>
+			</div>
+			<div class="vu_f-item 848e462678fe13b9c3ae5c15d902ad15" style="position: absolute; left: 0px; top: 307px;">
+					<article class="vu_product vu_p-style-2 clearfix" itemscope="" itemtype="http://schema.org/Product">
+												
+											<div class="vu_p-image vu_p-img-portrait vu_lazy-load vu_img-loaded" data-img="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-14.jpg" style="background-image: url(&quot;https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-14.jpg&quot;);">
+															<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/"><img width="600" height="600" src="./logo1_files/product-14.jpg" class="attachment-bakery_ratio-1:1 size-bakery_ratio-1:1" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-14.jpg 600w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-14-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-14-300x300.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></a>
+													</div>
+												
+			<div class="vu_p-content vu_p-content-hover">
+									<div class="vu_p-icons">
+													<a href="./logo1_files/product-14.jpg" title="Cappuccino Cheesecake" class="vu_p-icon vu_lightbox"><i class="fa fa-search"></i></a>
+						
+													<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Cappuccino Cheesecake" target="_self" class="vu_p-icon"><i class="fa fa-shopping-bag"></i></a>
+											</div>
+				
+									<h3 class="vu_p-name" itemprop="name"><a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Cappuccino Cheesecake" target="_self">Cappuccino Cheesecake</a></h3>
+				
+									<div class="vu_p-description" itemprop="description">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				
+									<div class="vu_p-price" itemscope="" itemprop="offers" itemtype="http://schema.org/Offer">
+													<span itemprop="priceCurrency" content="USD">$</span>
+						
+													<span itemprop="price" content="45.00">45.00</span>
+											</div>
+							</div>
+		</article>
+			</div>
+			<div class="vu_f-item dba7b12a19fe9d49fbb53d65c49bbce6" style="position: absolute; left: 242px; top: 307px;">
+					<article class="vu_product vu_p-style-2 clearfix" itemscope="" itemtype="http://schema.org/Product">
+												
+											<div class="vu_p-image vu_p-img-portrait vu_lazy-load vu_img-loaded" data-img="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-2.jpg" style="background-image: url(&quot;https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-2.jpg&quot;);">
+															<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/"><img width="600" height="600" src="./logo1_files/product-2.jpg" class="attachment-bakery_ratio-1:1 size-bakery_ratio-1:1" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-2.jpg 600w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-2-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-2-300x300.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></a>
+													</div>
+												
+			<div class="vu_p-content vu_p-content-hover">
+									<div class="vu_p-icons">
+													<a href="./logo1_files/product-2.jpg" title="Ciabatta" class="vu_p-icon vu_lightbox"><i class="fa fa-search"></i></a>
+						
+													<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Ciabatta" target="_self" class="vu_p-icon"><i class="fa fa-shopping-bag"></i></a>
+											</div>
+				
+									<h3 class="vu_p-name" itemprop="name"><a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Ciabatta" target="_self">Ciabatta</a></h3>
+				
+									<div class="vu_p-description" itemprop="description">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				
+									<div class="vu_p-price" itemscope="" itemprop="offers" itemtype="http://schema.org/Offer">
+													<span itemprop="priceCurrency" content="USD">$</span>
+						
+													<span itemprop="price" content="4.50">4.50</span>
+											</div>
+							</div>
+		</article>
+			</div>
+			<div class="vu_f-item 729a651644bb50ceee5e50abc45d86ca" style="position: absolute; left: 485px; top: 307px;">
+					<article class="vu_product vu_p-style-2 clearfix" itemscope="" itemtype="http://schema.org/Product">
+																		<div class="vu_p-label">
+							<span>New</span>
+						</div>
+					
+											<div class="vu_p-image vu_p-img-portrait vu_lazy-load vu_img-loaded" data-img="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-11.jpg" style="background-image: url(&quot;https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-11.jpg&quot;);">
+															<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/"><img width="600" height="600" src="./logo1_files/product-11.jpg" class="attachment-bakery_ratio-1:1 size-bakery_ratio-1:1" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-11.jpg 600w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-11-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-11-300x300.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></a>
+													</div>
+												
+			<div class="vu_p-content vu_p-content-hover">
+									<div class="vu_p-icons">
+													<a href="./logo1_files/product-11.jpg" title="Chocolate Tarts" class="vu_p-icon vu_lightbox"><i class="fa fa-search"></i></a>
+						
+													<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Chocolate Tarts" target="_self" class="vu_p-icon"><i class="fa fa-shopping-bag"></i></a>
+											</div>
+				
+									<h3 class="vu_p-name" itemprop="name"><a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Chocolate Tarts" target="_self">Chocolate Tarts</a></h3>
+				
+									<div class="vu_p-description" itemprop="description">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				
+									<div class="vu_p-price" itemscope="" itemprop="offers" itemtype="http://schema.org/Offer">
+													<span itemprop="priceCurrency" content="USD">$</span>
+						
+													<span itemprop="price" content="17.75">17.75</span>
+											</div>
+							</div>
+		</article>
+			</div>
+			<div class="vu_f-item 848e462678fe13b9c3ae5c15d902ad15" style="position: absolute; left: 727px; top: 307px;">
+					<article class="vu_product vu_p-style-2 clearfix" itemscope="" itemtype="http://schema.org/Product">
+												
+											<div class="vu_p-image vu_p-img-portrait vu_lazy-load vu_img-loaded" data-img="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-4.jpg" style="background-image: url(&quot;https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-4.jpg&quot;);">
+															<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/"><img width="600" height="600" src="./logo1_files/product-4.jpg" class="attachment-bakery_ratio-1:1 size-bakery_ratio-1:1" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-4.jpg 600w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-4-150x150.jpg 150w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/product-4-300x300.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></a>
+													</div>
+												
+			<div class="vu_p-content vu_p-content-hover">
+									<div class="vu_p-icons">
+													<a href="./logo1_files/product-4.jpg" title="Tiramisu" class="vu_p-icon vu_lightbox"><i class="fa fa-search"></i></a>
+						
+													<a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Tiramisu" target="_self" class="vu_p-icon"><i class="fa fa-shopping-bag"></i></a>
+											</div>
+				
+									<h3 class="vu_p-name" itemprop="name"><a href="http://preview.milingona.co/themes/bakery/onepage/products/product-single/" title="Tiramisu" target="_self">Tiramisu</a></h3>
+				
+									<div class="vu_p-description" itemprop="description">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				
+									<div class="vu_p-price" itemscope="" itemprop="offers" itemtype="http://schema.org/Offer">
+													<span itemprop="priceCurrency" content="USD">$</span>
+						
+													<span itemprop="price" content="34.00">34.00</span>
+											</div>
+							</div>
+		</article>
+			</div>
+				</div>
+		</div>
+			</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper text-center vu_r-custom-759168 vc_custom_1509441521471">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-580650">
+		<div class="vu_c-wrapper">
+					<a href="https://preview.milingona.co/themes/bakery/onepage/#" title="" target="_self" class="vu_button btn btn-default btn-md btn-secondary">
+			<span>See All Products</span>		</a>
+			</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_section vu_s-layout-full">
+				<div class="vu_s-wrapper vu_s-bg-image vu_s-custom-752701 vc_custom_1513039936573">
+			<div class="vu_s-content clearfix">
+				
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-242104">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-598146">
+		<div class="vu_c-wrapper">
+					<header class="vu_heading vu_h-style-3 vu_h-alignment-center vc_custom_1513077680517">
+			
+			<h2 class="vu_h-heading"><span>Join Our Newsletter</span></h2>
+
+							<div class="vu_h-subheading">
+					<p>We’ll make sure to send you sweet updates and specials</p>
+				</div>
+					</header>
+			</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-884983">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-952059 col-md-3">
+		<div class="vu_c-wrapper">
+					</div>
+	</div>
+
+	
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-290297 col-md-6">
+		<div class="vu_c-wrapper">
+					<div class="vu_mailchimp-form vu_mcf-style-default clearfix">
+			
+			
+			<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.1.14 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-171" method="post" data-id="171" data-name="Subscribe"><div class="mc4wp-form-fields"><div class="row">
+  	<style scoped="">
+      @media (max-width: 479px) {
+        .vu_mailchimp-form .p-r-5 { padding-right: 15px !important; margin-bottom: 5px; }
+        .vu_mailchimp-form .p-l-5 { padding-left: 15px !important; }
+      }
+    </style>
+	
+    <div class="col-xs-8 p-r-5">
+		<input type="email" name="EMAIL" class="form-control" placeholder="Your email address *" required="" style="border: 2px solid #414141 !important; background-color: rgba(255,255,255,0.5);">
+	</div>
+
+	<div class="col-xs-4 p-l-5">
+		<input type="submit" class="btn btn-inverse btn-primary btn-block" value="Subscribe">
+	</div>
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1634061823"><input type="hidden" name="_mc4wp_form_id" value="171"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->		</div>
+			</div>
+	</div>
+
+	
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-977192 col-md-3">
+		<div class="vu_c-wrapper">
+					</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div id="blog" class="vu_section vu_s-layout-full">
+				<div class="vu_s-wrapper vu_s-custom-875648">
+			<div class="vu_s-content clearfix">
+				
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-352124">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-903172">
+		<div class="vu_c-wrapper">
+					<header class="vu_heading vu_h-style-3 vu_h-alignment-center">
+			
+			<h2 class="vu_h-heading"><span>Blog Posts</span></h2>
+
+							<div class="vu_h-subheading">
+					<p>Check our latest articles, what we are talking about</p>
+				</div>
+					</header>
+			</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-823079">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-136633">
+		<div class="vu_c-wrapper">
+					<div class="vu_blog vu_b-type-carousel vu_b-layout-3 clearfix vc_custom_1513044283490 vu_custom_9672077">
+			
+									<style scoped="">.vu_blog.vu_custom_9672077 .vu_carousel .owl-buttons .owl-prev, .vu_blog.vu_custom_9672077 .vu_carousel .owl-buttons .owl-next { top: 40%; margin-top: -25px; }</style>
+				
+				<div class="vu_b-carousel vu_carousel owl-carousel owl-theme" data-options="{&quot;singleItem&quot;:false,&quot;items&quot;:3,&quot;itemsDesktop&quot;:[1199,3],&quot;itemsDesktopSmall&quot;:[980,2],&quot;itemsTablet&quot;:[768,2],&quot;itemsMobile&quot;:[479,1],&quot;navigation&quot;:true,&quot;navigationText&quot;:[&quot;&lt;i class=\&quot;fa fa-arrow-left\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;&lt;i class=\&quot;fa fa-arrow-right\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;],&quot;pagination&quot;:false,&quot;autoHeight&quot;:true,&quot;rewindNav&quot;:true,&quot;scrollPerPage&quot;:true,&quot;autoPlay&quot;:false,&quot;stopOnHover&quot;:false}" data-items="0" style="opacity: 1; display: block;">
+			
+															<div class="owl-wrapper-outer autoHeight" style="height: 288px;"><div class="owl-wrapper" style="width: 3876px; left: 0px; display: block;"><div class="owl-item" style="width: 323px;"><article class="vu_blog-item post-189 post type-post status-publish format-standard has-post-thumbnail hentry category-breads category-cakes tag-breads tag-cakes" data-id="189" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+															<div class="vu_bi-image">
+									<img width="800" height="600" src="./logo1_files/img-6-800x600.jpg" class="attachment-bakery_ratio-4:3 size-bakery_ratio-4:3 wp-post-image" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-6-800x600.jpg 800w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-6-300x225.jpg 300w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-6-768x576.jpg 768w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-6.jpg 890w" sizes="(max-width: 800px) 100vw, 800px">								</div>
+							
+							<div class="vu_bi-content-wrapper">
+								<header class="vu_bi-header">
+									<h3 class="vu_bi-title entry-title" itemprop="name">
+										<a href="https://preview.milingona.co/themes/bakery/onepage/standard-post-format/" itemprop="url" rel="bookmark" title="Standard Post Format">Standard Post Format</a>
+									</h3>
+								</header>
+
+								
+								<footer class="vu_bi-footer">
+																	</footer>
+								<div class="clear"></div>
+							</div>
+						</article></div><div class="owl-item" style="width: 323px;"><article class="vu_blog-item post-187 post type-post status-publish format-image has-post-thumbnail hentry category-pies tag-pies post_format-post-format-image" data-id="187" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+															<div class="vu_bi-image">
+									<img width="800" height="600" src="./logo1_files/img-9-800x600.jpg" class="attachment-bakery_ratio-4:3 size-bakery_ratio-4:3 wp-post-image" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-9-800x600.jpg 800w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-9-300x225.jpg 300w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-9-768x576.jpg 768w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-9.jpg 918w" sizes="(max-width: 800px) 100vw, 800px">								</div>
+							
+							<div class="vu_bi-content-wrapper">
+								<header class="vu_bi-header">
+									<h3 class="vu_bi-title entry-title" itemprop="name">
+										<a href="https://preview.milingona.co/themes/bakery/onepage/image-post-format/" itemprop="url" rel="bookmark" title="Image Post Format">Image Post Format</a>
+									</h3>
+								</header>
+
+								
+								<footer class="vu_bi-footer">
+																	</footer>
+								<div class="clear"></div>
+							</div>
+						</article></div><div class="owl-item" style="width: 323px;"><article class="vu_blog-item post-185 post type-post status-publish format-audio has-post-thumbnail hentry category-cupcakes tag-cupcakes post_format-post-format-audio" data-id="185" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+															<div class="vu_bi-image">
+									<img width="800" height="600" src="./logo1_files/img-7-800x600.jpg" class="attachment-bakery_ratio-4:3 size-bakery_ratio-4:3 wp-post-image" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-7-800x600.jpg 800w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-7-300x225.jpg 300w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-7-768x576.jpg 768w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-7.jpg 918w" sizes="(max-width: 800px) 100vw, 800px">								</div>
+							
+							<div class="vu_bi-content-wrapper">
+								<header class="vu_bi-header">
+									<h3 class="vu_bi-title entry-title" itemprop="name">
+										<a href="https://preview.milingona.co/themes/bakery/onepage/audio-post-format/" itemprop="url" rel="bookmark" title="Audio Post Format">Audio Post Format</a>
+									</h3>
+								</header>
+
+								
+								<footer class="vu_bi-footer">
+																	</footer>
+								<div class="clear"></div>
+							</div>
+						</article></div><div class="owl-item" style="width: 323px;"><article class="vu_blog-item post-183 post type-post status-publish format-video has-post-thumbnail hentry category-cookies tag-cookies post_format-post-format-video" data-id="183" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+															<div class="vu_bi-image">
+									<img width="800" height="600" src="./logo1_files/img-14-800x600.jpg" class="attachment-bakery_ratio-4:3 size-bakery_ratio-4:3 wp-post-image" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-14-800x600.jpg 800w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-14-300x225.jpg 300w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-14-768x576.jpg 768w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-14.jpg 890w" sizes="(max-width: 800px) 100vw, 800px">								</div>
+							
+							<div class="vu_bi-content-wrapper">
+								<header class="vu_bi-header">
+									<h3 class="vu_bi-title entry-title" itemprop="name">
+										<a href="https://preview.milingona.co/themes/bakery/onepage/video-post-format-vimeo/" itemprop="url" rel="bookmark" title="Video Post Format – Vimeo">Video Post Format – Vimeo</a>
+									</h3>
+								</header>
+
+								
+								<footer class="vu_bi-footer">
+																	</footer>
+								<div class="clear"></div>
+							</div>
+						</article></div><div class="owl-item" style="width: 323px;"><article class="vu_blog-item post-181 post type-post status-publish format-gallery has-post-thumbnail hentry category-cakes tag-cakes post_format-post-format-gallery" data-id="181" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+															<div class="vu_bi-image">
+									<img width="800" height="600" src="./logo1_files/img-2-800x600.jpg" class="attachment-bakery_ratio-4:3 size-bakery_ratio-4:3 wp-post-image" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-2-800x600.jpg 800w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-2-300x225.jpg 300w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-2-768x576.jpg 768w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-2.jpg 887w" sizes="(max-width: 800px) 100vw, 800px">								</div>
+							
+							<div class="vu_bi-content-wrapper">
+								<header class="vu_bi-header">
+									<h3 class="vu_bi-title entry-title" itemprop="name">
+										<a href="https://preview.milingona.co/themes/bakery/onepage/gallery-post-format/" itemprop="url" rel="bookmark" title="Gallery Post Format">Gallery Post Format</a>
+									</h3>
+								</header>
+
+								
+								<footer class="vu_bi-footer">
+																	</footer>
+								<div class="clear"></div>
+							</div>
+						</article></div><div class="owl-item" style="width: 323px;"><article class="vu_blog-item post-179 post type-post status-publish format-video has-post-thumbnail hentry category-breads tag-bread post_format-post-format-video" data-id="179" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+															<div class="vu_bi-image">
+									<img width="800" height="600" src="./logo1_files/img-20-800x600.jpg" class="attachment-bakery_ratio-4:3 size-bakery_ratio-4:3 wp-post-image" alt="" itemprop="image" srcset="https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-20-800x600.jpg 800w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-20-300x225.jpg 300w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-20-768x576.jpg 768w, https://preview.milingona.co/themes/bakery/onepage/wp-content/uploads/2017/12/img-20.jpg 890w" sizes="(max-width: 800px) 100vw, 800px">								</div>
+							
+							<div class="vu_bi-content-wrapper">
+								<header class="vu_bi-header">
+									<h3 class="vu_bi-title entry-title" itemprop="name">
+										<a href="https://preview.milingona.co/themes/bakery/onepage/video-post-format-youtube/" itemprop="url" rel="bookmark" title="Video Post Format – Youtube">Video Post Format – Youtube</a>
+									</h3>
+								</header>
+
+								
+								<footer class="vu_bi-footer">
+																	</footer>
+								<div class="clear"></div>
+							</div>
+						</article></div></div></div>
+																				
+																				
+																				
+																				
+																				
+																				<div class="owl-controls clickable"><div class="owl-buttons"><div class="owl-prev"><i class="fa fa-arrow-left" aria-hidden="true"></i></div><div class="owl-next"><i class="fa fa-arrow-right" aria-hidden="true"></i></div></div></div></div>
+		</div>
+			</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div id="contact" class="vu_section vu_s-layout-full">
+				<div class="vu_s-wrapper vu_s-custom-698762">
+			<div class="vu_s-content clearfix">
+				
+	<div class="vu_row row vu_r-layout-full">
+				<div class="vu_r-wrapper vu_r-custom-340473">
+			<div class="vu_r-content clearfix">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-790083">
+		<div class="vu_c-wrapper">
+			<div class="vu_map vu_m-fullwith" data-options="{&quot;zoom_level&quot;:&quot;14&quot;,&quot;center_lat&quot;:&quot;51.470852&quot;,&quot;center_lng&quot;:&quot;-0.168786&quot;,&quot;map_type&quot;:&quot;roadmap&quot;,&quot;tilt_45&quot;:&quot;&quot;,&quot;others_options&quot;:{&quot;draggable&quot;:&quot;1&quot;,&quot;zoomControl&quot;:&quot;&quot;,&quot;disableDoubleClickZoom&quot;:&quot;&quot;,&quot;scrollwheel&quot;:&quot;&quot;,&quot;panControl&quot;:&quot;&quot;,&quot;fullscreenControl&quot;:&quot;1&quot;,&quot;mapTypeControl&quot;:&quot;&quot;,&quot;scaleControl&quot;:&quot;&quot;,&quot;streetViewControl&quot;:&quot;&quot;},&quot;use_custom_marker&quot;:&quot;&quot;,&quot;custom_marker&quot;:false,&quot;enable_animation&quot;:&quot;1&quot;,&quot;locations&quot;:[{&quot;lat&quot;:&quot;51.472082&quot;,&quot;lng&quot;:&quot;-0.169193&quot;,&quot;info&quot;:&quot;Hi, we&#39;re here!&quot;,&quot;marker_id&quot;:&quot;553&quot;,&quot;marker_url&quot;:&quot;http:\/\/preview.milingona.co\/themes\/bakery\/onepage\/wp-content\/uploads\/2017\/11\/marker.svg&quot;}],&quot;styles&quot;:&quot;[{\&quot;featureType\&quot;:\&quot;administrative\&quot;,\&quot;stylers\&quot;:[{\&quot;visibility\&quot;:\&quot;off\&quot;}]},{\&quot;featureType\&quot;:\&quot;poi\&quot;,\&quot;stylers\&quot;:[{\&quot;visibility\&quot;:\&quot;simplified\&quot;}]},{\&quot;featureType\&quot;:\&quot;road\&quot;,\&quot;stylers\&quot;:[{\&quot;visibility\&quot;:\&quot;simplified\&quot;}]},{\&quot;featureType\&quot;:\&quot;water\&quot;,\&quot;stylers\&quot;:[{\&quot;visibility\&quot;:\&quot;simplified\&quot;}]},{\&quot;featureType\&quot;:\&quot;transit\&quot;,\&quot;stylers\&quot;:[{\&quot;visibility\&quot;:\&quot;simplified\&quot;}]},{\&quot;featureType\&quot;:\&quot;landscape\&quot;,\&quot;stylers\&quot;:[{\&quot;visibility\&quot;:\&quot;simplified\&quot;}]},{\&quot;featureType\&quot;:\&quot;road.highway\&quot;,\&quot;stylers\&quot;:[{\&quot;visibility\&quot;:\&quot;off\&quot;}]},{\&quot;featureType\&quot;:\&quot;road.local\&quot;,\&quot;stylers\&quot;:[{\&quot;visibility\&quot;:\&quot;on\&quot;}]},{\&quot;featureType\&quot;:\&quot;road.highway\&quot;,\&quot;elementType\&quot;:\&quot;geometry\&quot;,\&quot;stylers\&quot;:[{\&quot;visibility\&quot;:\&quot;on\&quot;}]},{\&quot;featureType\&quot;:\&quot;water\&quot;,\&quot;stylers\&quot;:[{\&quot;color\&quot;:\&quot;#84afa3\&quot;},{\&quot;lightness\&quot;:52}]},{\&quot;stylers\&quot;:[{\&quot;saturation\&quot;:-77}]},{\&quot;featureType\&quot;:\&quot;road\&quot;}]&quot;}" id="vu_map-2616" style="position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);"><div class="gm-style" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;"><div><button draggable="false" aria-label="Keyboard shortcuts" title="Keyboard shortcuts" type="button" style="background: none transparent; display: block; border: none; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: pointer; user-select: none; z-index: 1000002; left: -100000px; top: -100000px;"></button></div><div tabindex="0" aria-label="Map" aria-roledescription="map" role="group" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default; touch-action: pan-x pan-y;"><div style="z-index: 1; position: absolute; left: 50%; top: 50%; width: 100%; transform: translate(0px, 0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 986; transform: matrix(1, 0, 0, 1, -82, -197);"><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 512px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 512px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 512px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"><div style="width: 64px; height: 88px; overflow: hidden; position: absolute; left: -37px; top: -111px; z-index: -23; animation-duration: 700ms; animation-iteration-count: infinite; animation-name: _gm1145;"><img alt="" src="./logo1_files/marker.svg" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 64px; height: 88px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: -1;"><div style="position: absolute; z-index: 986; transform: matrix(1, 0, 0, 1, -82, -197);"><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -512px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -512px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -512px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 512px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 512px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 512px; top: 256px;"></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 986; transform: matrix(1, 0, 0, 1, -82, -197);"><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(1)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(2)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(3)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(4)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(5)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(6)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(7)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(8)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(9)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(10)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(11)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 512px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(12)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 512px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(13)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 512px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="./logo1_files/vt(14)" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div></div></div><div style="z-index: 3; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; touch-action: pan-x pan-y;"><div style="z-index: 4; position: absolute; left: 50%; top: 50%; width: 100%; transform: translate(0px, 0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"><div title="" role="button" tabindex="0" style="width: 64px; height: 88px; overflow: hidden; position: absolute; cursor: pointer; touch-action: none; left: -37px; top: -111px; z-index: -23;"><img alt="" src="./logo1_files/transparent.png" draggable="false" style="width: 64px; height: 88px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div><div class="gm-style-moc" style="z-index: 4; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; opacity: 0;"><p class="gm-style-mot"></p></div></div><iframe aria-hidden="true" frameborder="0" tabindex="-1" style="z-index: -1; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; border: none;" src="./logo1_files/saved_resource.html"></iframe><div style="pointer-events: none; width: 100%; height: 100%; box-sizing: border-box; position: absolute; z-index: 1000002; opacity: 0; border: 2px solid rgb(26, 115, 232);"></div><div></div><div></div><div></div><div></div><div><button draggable="false" aria-label="Toggle fullscreen view" title="Toggle fullscreen view" type="button" class="gm-control-active gm-fullscreen-control" style="background: none rgb(255, 255, 255); border: 0px; margin: 10px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: pointer; user-select: none; border-radius: 2px; height: 40px; width: 40px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; overflow: hidden; top: 0px; right: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%200v6h2V2h4V0H0zm16%200h-4v2h4v4h2V0h-2zm0%2016h-4v2h6v-6h-2v4zM2%2012H0v6h6v-2H2v-4z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%200v6h2V2h4V0H0zm16%200h-4v2h4v4h2V0h-2zm0%2016h-4v2h6v-6h-2v4zM2%2012H0v6h6v-2H2v-4z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%200v6h2V2h4V0H0zm16%200h-4v2h4v4h2V0h-2zm0%2016h-4v2h6v-6h-2v4zM2%2012H0v6h6v-2H2v-4z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"></button></div><div></div><div></div><div></div><div></div><div><div class="gmnoprint gm-bundled-control gm-bundled-control-on-bottom" draggable="false" controlwidth="0" controlheight="0" style="margin: 10px; user-select: none; position: absolute; display: none; bottom: 14px; right: 0px;"><div class="gmnoprint" controlwidth="40" controlheight="40" style="display: none; position: absolute;"><div style="background-color: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; width: 40px; height: 40px;"><button draggable="false" aria-label="Rotate map clockwise" title="Rotate map clockwise" type="button" class="gm-control-active" style="background: none; display: none; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; left: 0px; top: 0px; overflow: hidden; width: 40px; height: 40px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200h24v24H0V0z%22/%3E%3Cpath%20fill%3D%22%23666%22%20d%3D%22M12.06%209.06l4-4-4-4-1.41%201.41%201.59%201.59h-.18c-2.3%200-4.6.88-6.35%202.64-3.52%203.51-3.52%209.21%200%2012.72%201.5%201.5%203.4%202.36%205.36%202.58v-2.02c-1.44-.21-2.84-.86-3.95-1.97-2.73-2.73-2.73-7.17%200-9.9%201.37-1.37%203.16-2.05%204.95-2.05h.17l-1.59%201.59%201.41%201.41zm8.94%203c-.19-1.74-.88-3.32-1.91-4.61l-1.43%201.43c.69.92%201.15%202%201.32%203.18H21zm-7.94%207.92V22c1.74-.19%203.32-.88%204.61-1.91l-1.43-1.43c-.91.68-2%201.15-3.18%201.32zm4.6-2.74l1.43%201.43c1.04-1.29%201.72-2.88%201.91-4.61h-2.02c-.17%201.18-.64%202.27-1.32%203.18z%22/%3E%3C/svg%3E" style="width: 20px; height: 20px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200h24v24H0V0z%22/%3E%3Cpath%20fill%3D%22%23333%22%20d%3D%22M12.06%209.06l4-4-4-4-1.41%201.41%201.59%201.59h-.18c-2.3%200-4.6.88-6.35%202.64-3.52%203.51-3.52%209.21%200%2012.72%201.5%201.5%203.4%202.36%205.36%202.58v-2.02c-1.44-.21-2.84-.86-3.95-1.97-2.73-2.73-2.73-7.17%200-9.9%201.37-1.37%203.16-2.05%204.95-2.05h.17l-1.59%201.59%201.41%201.41zm8.94%203c-.19-1.74-.88-3.32-1.91-4.61l-1.43%201.43c.69.92%201.15%202%201.32%203.18H21zm-7.94%207.92V22c1.74-.19%203.32-.88%204.61-1.91l-1.43-1.43c-.91.68-2%201.15-3.18%201.32zm4.6-2.74l1.43%201.43c1.04-1.29%201.72-2.88%201.91-4.61h-2.02c-.17%201.18-.64%202.27-1.32%203.18z%22/%3E%3C/svg%3E" style="width: 20px; height: 20px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200h24v24H0V0z%22/%3E%3Cpath%20fill%3D%22%23111%22%20d%3D%22M12.06%209.06l4-4-4-4-1.41%201.41%201.59%201.59h-.18c-2.3%200-4.6.88-6.35%202.64-3.52%203.51-3.52%209.21%200%2012.72%201.5%201.5%203.4%202.36%205.36%202.58v-2.02c-1.44-.21-2.84-.86-3.95-1.97-2.73-2.73-2.73-7.17%200-9.9%201.37-1.37%203.16-2.05%204.95-2.05h.17l-1.59%201.59%201.41%201.41zm8.94%203c-.19-1.74-.88-3.32-1.91-4.61l-1.43%201.43c.69.92%201.15%202%201.32%203.18H21zm-7.94%207.92V22c1.74-.19%203.32-.88%204.61-1.91l-1.43-1.43c-.91.68-2%201.15-3.18%201.32zm4.6-2.74l1.43%201.43c1.04-1.29%201.72-2.88%201.91-4.61h-2.02c-.17%201.18-.64%202.27-1.32%203.18z%22/%3E%3C/svg%3E" style="width: 20px; height: 20px;"></button><div style="position: relative; overflow: hidden; width: 30px; height: 1px; margin: 0px 5px; background-color: rgb(230, 230, 230); display: none;"></div><button draggable="false" aria-label="Rotate map counterclockwise" title="Rotate map counterclockwise" type="button" class="gm-control-active" style="background: none; display: none; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; left: 0px; top: 0px; overflow: hidden; width: 40px; height: 40px; transform: scaleX(-1);"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200h24v24H0V0z%22/%3E%3Cpath%20fill%3D%22%23666%22%20d%3D%22M12.06%209.06l4-4-4-4-1.41%201.41%201.59%201.59h-.18c-2.3%200-4.6.88-6.35%202.64-3.52%203.51-3.52%209.21%200%2012.72%201.5%201.5%203.4%202.36%205.36%202.58v-2.02c-1.44-.21-2.84-.86-3.95-1.97-2.73-2.73-2.73-7.17%200-9.9%201.37-1.37%203.16-2.05%204.95-2.05h.17l-1.59%201.59%201.41%201.41zm8.94%203c-.19-1.74-.88-3.32-1.91-4.61l-1.43%201.43c.69.92%201.15%202%201.32%203.18H21zm-7.94%207.92V22c1.74-.19%203.32-.88%204.61-1.91l-1.43-1.43c-.91.68-2%201.15-3.18%201.32zm4.6-2.74l1.43%201.43c1.04-1.29%201.72-2.88%201.91-4.61h-2.02c-.17%201.18-.64%202.27-1.32%203.18z%22/%3E%3C/svg%3E" style="width: 20px; height: 20px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200h24v24H0V0z%22/%3E%3Cpath%20fill%3D%22%23333%22%20d%3D%22M12.06%209.06l4-4-4-4-1.41%201.41%201.59%201.59h-.18c-2.3%200-4.6.88-6.35%202.64-3.52%203.51-3.52%209.21%200%2012.72%201.5%201.5%203.4%202.36%205.36%202.58v-2.02c-1.44-.21-2.84-.86-3.95-1.97-2.73-2.73-2.73-7.17%200-9.9%201.37-1.37%203.16-2.05%204.95-2.05h.17l-1.59%201.59%201.41%201.41zm8.94%203c-.19-1.74-.88-3.32-1.91-4.61l-1.43%201.43c.69.92%201.15%202%201.32%203.18H21zm-7.94%207.92V22c1.74-.19%203.32-.88%204.61-1.91l-1.43-1.43c-.91.68-2%201.15-3.18%201.32zm4.6-2.74l1.43%201.43c1.04-1.29%201.72-2.88%201.91-4.61h-2.02c-.17%201.18-.64%202.27-1.32%203.18z%22/%3E%3C/svg%3E" style="width: 20px; height: 20px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200h24v24H0V0z%22/%3E%3Cpath%20fill%3D%22%23111%22%20d%3D%22M12.06%209.06l4-4-4-4-1.41%201.41%201.59%201.59h-.18c-2.3%200-4.6.88-6.35%202.64-3.52%203.51-3.52%209.21%200%2012.72%201.5%201.5%203.4%202.36%205.36%202.58v-2.02c-1.44-.21-2.84-.86-3.95-1.97-2.73-2.73-2.73-7.17%200-9.9%201.37-1.37%203.16-2.05%204.95-2.05h.17l-1.59%201.59%201.41%201.41zm8.94%203c-.19-1.74-.88-3.32-1.91-4.61l-1.43%201.43c.69.92%201.15%202%201.32%203.18H21zm-7.94%207.92V22c1.74-.19%203.32-.88%204.61-1.91l-1.43-1.43c-.91.68-2%201.15-3.18%201.32zm4.6-2.74l1.43%201.43c1.04-1.29%201.72-2.88%201.91-4.61h-2.02c-.17%201.18-.64%202.27-1.32%203.18z%22/%3E%3C/svg%3E" style="width: 20px; height: 20px;"></button><div style="position: relative; overflow: hidden; width: 30px; height: 1px; margin: 0px 5px; background-color: rgb(230, 230, 230); display: none;"></div><button draggable="false" aria-label="Tilt map" title="Tilt map" type="button" class="gm-tilt gm-control-active" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; top: 0px; left: 0px; overflow: hidden; width: 40px; height: 40px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2016%22%3E%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2016h8V9H0v7zm10%200h8V9h-8v7zM0%207h8V0H0v7zm10-7v7h8V0h-8z%22/%3E%3C/svg%3E" style="width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2016%22%3E%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2016h8V9H0v7zm10%200h8V9h-8v7zM0%207h8V0H0v7zm10-7v7h8V0h-8z%22/%3E%3C/svg%3E" style="width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2016%22%3E%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2016h8V9H0v7zm10%200h8V9h-8v7zM0%207h8V0H0v7zm10-7v7h8V0h-8z%22/%3E%3C/svg%3E" style="width: 18px;"></button></div></div></div></div><div><div style="margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a target="_blank" rel="noopener" href="https://maps.google.com/maps?ll=51.470852,-0.168786&amp;z=14&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=apiv3" title="Open this area in Google Maps (opens a new window)" style="position: static; overflow: visible; float: none; display: inline;"><div style="width: 66px; height: 26px; cursor: pointer;"><img alt="" src="./logo1_files/google_white5_hdpi.png" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; user-select: none; border: 0px; padding: 0px; margin: 0px;"></div></a></div></div><div></div><div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 287px; bottom: 0px;"><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><button draggable="false" aria-label="Keyboard shortcuts" title="Keyboard shortcuts" type="button" style="background: none; display: inline-block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; color: rgb(0, 0, 0); font-family: inherit; line-height: normal;">Keyboard shortcuts</button></div></div></div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 166px; bottom: 0px; width: 121px;"><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><button draggable="false" aria-label="Map Data" title="Map Data" type="button" style="background: none; display: none; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; color: rgb(0, 0, 0); font-family: inherit; line-height: normal;">Map Data</button><span>Map data ©2021 Google</span></div></div></div><div class="gmnoprint gm-style-cc" draggable="false" style="z-index: 1000001; user-select: none; height: 14px; line-height: 14px; position: absolute; right: 95px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a href="https://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank" rel="noopener" style="text-decoration: none; cursor: pointer; color: rgb(0, 0, 0);">Terms of Use</a></div></div><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px; position: absolute; right: 0px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_blank" rel="noopener" title="Report errors in the road map or imagery to Google" dir="ltr" href="https://www.google.com/maps/@51.470852,-0.168786,14z/data=!10m1!1e1!12b1?source=apiv3&amp;rapsrc=apiv3" style="font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); text-decoration: none; position: relative;">Report a map error</a></div></div><div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;"><div style="font-family: Roboto, Arial, sans-serif; font-size: 11px; color: rgb(0, 0, 0); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Map data ©2021 Google</div></div></div></div></div><div style="background-color: white; font-weight: 500; font-family: Roboto, sans-serif; padding: 15px 25px; box-sizing: border-box; top: 5px; border: 1px solid rgba(0, 0, 0, 0.12); border-radius: 5px; left: 50%; max-width: 375px; position: absolute; transform: translateX(-50%); width: calc(100% - 10px); z-index: 1;"><div><img alt="" src="./logo1_files/google_gray.svg" draggable="false" style="padding: 0px; margin: 0px; border: 0px; height: 17px; vertical-align: middle; width: 52px; user-select: none;"></div><div style="line-height: 20px; margin: 15px 0px;"><span style="color: rgba(0, 0, 0, 0.87); font-size: 14px;">This page can't load Google Maps correctly.</span></div><table style="width: 100%;"><tr><td style="line-height: 16px; vertical-align: middle;"><a href="https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&amp;utm_medium=degraded&amp;utm_campaign=billing#api-key-and-billing-errors" target="_blank" rel="noopener" style="color: rgba(0, 0, 0, 0.54); font-size: 12px;">Do you own this website?</a></td><td style="text-align: right;"><button class="dismissButton">OK</button></td></tr></table></div></div>		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+	
+	<div class="vu_section vu_s-layout-full">
+				<div class="vu_s-wrapper vu_s-custom-775369 vc_custom_1513093930259">
+			<div class="vu_s-content clearfix">
+				
+	<div class="vu_row row vu_r-layout-boxed">
+				<div class="vu_r-wrapper vu_r-custom-155488">
+			<div class="vu_r-content container">
+				
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-802578 col-md-4 vc_custom_1512833233777">
+		<div class="vu_c-wrapper">
+			
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<h3 class="m-t-0 m-b-15 fs-16"><span style="color: #ffffff;">OPENING HOURS</span></h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1513205085488">
+		<div class="wpb_wrapper">
+			<div class="vu_working-hours">
+	<div class="vu_wh-item">
+		<div class="vu_wh-day">Monday - Thursday</div>
+		<div class="vu_wh-hours">8:00 - 16:00</div>
+	</div>
+	<div class="vu_wh-item">
+		<div class="vu_wh-day">Friday - Saturday</div>
+		<div class="vu_wh-hours">8:00 - 16:00</div>
+	</div>
+	<div class="vu_wh-item">
+		<div class="vu_wh-day">Sunday</div>
+		<div class="vu_wh-hours">8:00 - 16:00</div>
+	</div>
+</div>
+		</div>
+	</div>
+		<div class="vu_social-networks vu_sn-size-small vu_sn-alignment-left">
+							<div class="vu_sn-container">
+				<div class="vu_social-icon"><a href="https://preview.milingona.co/themes/bakery/onepage/#" target="_blank"><i class="fa fa-facebook"></i></a></div><div class="vu_social-icon"><a href="https://preview.milingona.co/themes/bakery/onepage/#" target="_blank"><i class="fa fa-instagram"></i></a></div><div class="vu_social-icon"><a href="https://preview.milingona.co/themes/bakery/onepage/#" target="_blank"><i class="fa fa-yelp"></i></a></div><div class="vu_social-icon"><a href="https://preview.milingona.co/themes/bakery/onepage/#" target="_blank"><i class="fa fa-foursquare"></i></a></div>			</div>
+		</div>
+			</div>
+	</div>
+
+	
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-804171 col-md-4">
+		<div class="vu_c-wrapper">
+					<div class="vu_contact-form-7 vu_cf7-style-default vu_cf7-hide-valid-msgs clearfix vc_custom_1513205324686">
+			
+			<div role="form" class="wpcf7" id="wpcf7-f526-p87-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="https://preview.milingona.co/themes/bakery/onepage/#wpcf7-f526-p87-o2" method="post" class="wpcf7-form vu_cf7-frm" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="526">
+<input type="hidden" name="_wpcf7_version" value="4.9.2">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f526-p87-o2">
+<input type="hidden" name="_wpcf7_container_post" value="87">
+</div>
+<div class="row">
+<div class="col-xs-12 m-b-15">
+		<span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control m-b-5" aria-required="true" aria-invalid="false" placeholder="Name"></span>
+	</div>
+</div>
+<div class="row">
+<div class="col-xs-12 m-b-15">
+		<span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel form-control m-b-5" aria-required="true" aria-invalid="false" placeholder="Phone"></span>
+	</div>
+</div>
+<div class="row">
+<div class="col-xs-12 m-b-15">
+		<span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control m-b-5" aria-required="true" aria-invalid="false" placeholder="Email"></span>
+	</div>
+</div>
+<div class="row">
+<div class="col-xs-12 m-b-15">
+		<span class="wpcf7-form-control-wrap message"><textarea name="message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control m-b-5" aria-required="true" aria-invalid="false" placeholder="Message"></textarea></span>
+	</div>
+</div>
+<div class="row">
+<div class="col-xs-12 vu_ajax-loader-in-btn">
+		<span class="ajax-loader"></span><input type="submit" value="SEND" class="wpcf7-form-control wpcf7-submit btn btn-primary btn-md btn-block btn-inverse">
+	</div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>		</div>
+			</div>
+	</div>
+
+	
+	<div class="vu_column vu_c-layout-normal vu_c-valign-auto vu_c-custom-521026 col-md-4 vc_custom_1512833274586">
+		<div class="vu_c-wrapper">
+			
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<h3 class="m-t-0 m-b-15 fs-16"><span style="color: #ffffff;">CONTACT US</span></h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<p class="vu_with-icon"><i class="fa fa-phone"></i><span style="color: #aaaaaa;"> 0 800 123 456 88</span></p>
+<p class="vu_with-icon"><i class="fa fa-map-marker"></i><span style="color: #aaaaaa;"> 30 Hampton Road Southampton, NY 11968</span></p>
+<p class="vu_with-icon"><i class="fa fa-envelope"></i><span style="color: #aaaaaa;">info@bakerytheme.com</span></p>
+<p class="vu_with-icon"><i class="fa fa-globe"></i><span style="color: #aaaaaa;"> www.bakerytheme.com</span></p>
+
+		</div>
+	</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+				</div>
+		</div>
+	</div>
+
+						
+											</div>
+
+									</div>
+			</div>
+		</div>
+		<!-- /Container -->
+
+			
+		<!-- Footer -->
+		<footer id="vu_main-footer" class="vu_main-footer" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+						
+							<!-- Subfooter -->
+				<div class="vu_mf-subfooter">
+					<div class="container">
+													<div class="vu_row row">
+								<div class="vu_r-wrapper">
+									<div class="vu_r-content">
+										<div class="col-xs-12">
+											<div class="vu_mf-sf-content text-center">
+												Copyright © 2015-2018 Bakery WordPress Theme by <a href="http://themeforest.net/user/milingona_/portfolio" target="_blank">Milingona</a>.											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+											</div>
+				</div>
+				<!-- /Subfooter Bottom -->
+			
+							<a href="https://preview.milingona.co/themes/bakery/onepage/#" class="vu_back-to-top">
+					<i class="fa fa-arrow-up"></i>
+				</a>
+					</footer>
+		<!-- /Footer -->
+
+		
+	<div class="vu_mobile-menu"><div class="text-right"><a href="https://preview.milingona.co/themes/bakery/onepage/#" class="vu_mm-toggle vu_mm-remove"><i class="fa fa-times-circle"></i></a></div><ul><li id="menu-item-2020" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2020"><a href="http://preview.milingona.co/themes/bakery/onepage/#about" itemprop="url">Our Bakery</a></li>
+<li id="menu-item-2025" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2025"><a href="http://preview.milingona.co/themes/bakery/onepage/#order" itemprop="url">Order</a></li>
+<li id="menu-item-2021" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2021"><a href="http://preview.milingona.co/themes/bakery/onepage/#services" itemprop="url">Services</a></li>
+<li id="menu-item-2022" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2022"><a href="http://preview.milingona.co/themes/bakery/onepage/#products" itemprop="url">Products</a></li>
+<li id="menu-item-2023" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2023"><a href="http://preview.milingona.co/themes/bakery/onepage/#blog" itemprop="url">Blog</a></li>
+<li id="menu-item-2024" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2024"><a href="http://preview.milingona.co/themes/bakery/onepage/#contact" itemprop="url">Contact</a></li>
+<li id="menu-item-2027" class="vu_menu-button menu-item menu-item-type-custom menu-item-object-custom menu-item-2027"><a target="_blank" href="http://go.milingona.co/buy-bakery-theme" itemprop="url">Buy Now!</a></li>
+</ul></div></div><!-- /Main Container -->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./logo1_files/js(1)"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-61994913-4');
+</script><script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script>			<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/preview.milingona.co\/themes\/bakery\/onepage\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./logo1_files/scripts.js.download"></script>
+<script type="text/javascript" src="./logo1_files/wp-embed.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/js_composer_front.min.js.download"></script>
+<script type="text/javascript">
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type="text/javascript" src="./logo1_files/mediaelement-and-player.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/mediaelement-migrate.min.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/themes\/bakery\/onepage\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./logo1_files/wp-mediaelement.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/core.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/widget.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/accordion.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/tabs.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/bootstrap.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/bootstrap-datepicker.js.download"></script>
+<script type="text/javascript" src="./logo1_files/bootstrap-timepicker.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/magnific-popup.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/owl.carousel.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/select2.full.min.js.download"></script>
+<script type="text/javascript" src="./logo1_files/common.js(1).download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var bakery_config = {"ajaxurl":"https:\/\/preview.milingona.co\/themes\/bakery\/onepage\/wp-admin\/admin-ajax.php","home_url":"https:\/\/preview.milingona.co\/themes\/bakery\/onepage\/","version":"2.1","google_maps_api_key":"AIzaSyCBkFJdKdTlGUD5Z1Q5OazJEqtglEM67uI"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./logo1_files/main.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="./logo1_files/forms-api.min.js.download"></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://preview.milingona.co/themes/bakery/onepage/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.1.14'></script>
+<![endif]-->
+
+</body></html>
